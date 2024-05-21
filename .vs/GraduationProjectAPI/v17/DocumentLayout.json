@@ -1,0 +1,1419 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Orginal\\Downloads\\PharmaProAPI-main-1\\PharmaProAPI-main-1\\PharmaProAPI-main\\GraduationProjectAPI\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{38FF16BD-FE44-4971-BF9B-B3BA71A23F15}|GraduationProjectAPI\\GraduationProjectAPI.csproj|c:\\users\\orginal\\downloads\\pharmaproapi-main-1\\pharmaproapi-main-1\\pharmaproapi-main\\graduationprojectapi\\graduationprojectapi\\controllers\\orderhistorycontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{38FF16BD-FE44-4971-BF9B-B3BA71A23F15}|GraduationProjectAPI\\GraduationProjectAPI.csproj|solutionrelative:graduationprojectapi\\controllers\\orderhistorycontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{38FF16BD-FE44-4971-BF9B-B3BA71A23F15}|GraduationProjectAPI\\GraduationProjectAPI.csproj|C:\\Users\\Orginal\\Downloads\\PharmaProAPI-main-1\\PharmaProAPI-main-1\\PharmaProAPI-main\\GraduationProjectAPI\\graduationprojectapi\\bl\\repos\\orderhistoryrepo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{38FF16BD-FE44-4971-BF9B-B3BA71A23F15}|GraduationProjectAPI\\GraduationProjectAPI.csproj|solutionrelative:graduationprojectapi\\bl\\repos\\orderhistoryrepo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{38FF16BD-FE44-4971-BF9B-B3BA71A23F15}|GraduationProjectAPI\\GraduationProjectAPI.csproj|C:\\Users\\Orginal\\Downloads\\PharmaProAPI-main-1\\PharmaProAPI-main-1\\PharmaProAPI-main\\GraduationProjectAPI\\graduationprojectapi\\bl\\interfaces\\iorderhistories.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{38FF16BD-FE44-4971-BF9B-B3BA71A23F15}|GraduationProjectAPI\\GraduationProjectAPI.csproj|solutionrelative:graduationprojectapi\\bl\\interfaces\\iorderhistories.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{38FF16BD-FE44-4971-BF9B-B3BA71A23F15}|GraduationProjectAPI\\GraduationProjectAPI.csproj|C:\\Users\\Orginal\\Downloads\\PharmaProAPI-main-1\\PharmaProAPI-main-1\\PharmaProAPI-main\\GraduationProjectAPI\\graduationprojectapi\\controllers\\accountcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{38FF16BD-FE44-4971-BF9B-B3BA71A23F15}|GraduationProjectAPI\\GraduationProjectAPI.csproj|solutionrelative:graduationprojectapi\\controllers\\accountcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{38FF16BD-FE44-4971-BF9B-B3BA71A23F15}|GraduationProjectAPI\\GraduationProjectAPI.csproj|C:\\Users\\Orginal\\Downloads\\PharmaProAPI-main-1\\PharmaProAPI-main-1\\PharmaProAPI-main\\GraduationProjectAPI\\graduationprojectapi\\controllers\\patientcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{38FF16BD-FE44-4971-BF9B-B3BA71A23F15}|GraduationProjectAPI\\GraduationProjectAPI.csproj|solutionrelative:graduationprojectapi\\controllers\\patientcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{38FF16BD-FE44-4971-BF9B-B3BA71A23F15}|GraduationProjectAPI\\GraduationProjectAPI.csproj|C:\\Users\\Orginal\\Downloads\\PharmaProAPI-main-1\\PharmaProAPI-main-1\\PharmaProAPI-main\\GraduationProjectAPI\\graduationprojectapi\\bl\\customresponse.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{38FF16BD-FE44-4971-BF9B-B3BA71A23F15}|GraduationProjectAPI\\GraduationProjectAPI.csproj|solutionrelative:graduationprojectapi\\bl\\customresponse.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{38FF16BD-FE44-4971-BF9B-B3BA71A23F15}|GraduationProjectAPI\\GraduationProjectAPI.csproj|C:\\Users\\Orginal\\Downloads\\PharmaProAPI-main-1\\PharmaProAPI-main-1\\PharmaProAPI-main\\GraduationProjectAPI\\graduationprojectapi\\bl\\backgroindjob\\sendnotificationjob.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{38FF16BD-FE44-4971-BF9B-B3BA71A23F15}|GraduationProjectAPI\\GraduationProjectAPI.csproj|solutionrelative:graduationprojectapi\\bl\\backgroindjob\\sendnotificationjob.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{38FF16BD-FE44-4971-BF9B-B3BA71A23F15}|GraduationProjectAPI\\GraduationProjectAPI.csproj|C:\\Users\\Orginal\\Downloads\\PharmaProAPI-main-1\\PharmaProAPI-main-1\\PharmaProAPI-main\\GraduationProjectAPI\\graduationprojectapi\\controllers\\medicinescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{38FF16BD-FE44-4971-BF9B-B3BA71A23F15}|GraduationProjectAPI\\GraduationProjectAPI.csproj|solutionrelative:graduationprojectapi\\controllers\\medicinescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{38FF16BD-FE44-4971-BF9B-B3BA71A23F15}|GraduationProjectAPI\\GraduationProjectAPI.csproj|C:\\Users\\Orginal\\Downloads\\PharmaProAPI-main-1\\PharmaProAPI-main-1\\PharmaProAPI-main\\GraduationProjectAPI\\graduationprojectapi\\controllers\\prescriptioncontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{38FF16BD-FE44-4971-BF9B-B3BA71A23F15}|GraduationProjectAPI\\GraduationProjectAPI.csproj|solutionrelative:graduationprojectapi\\controllers\\prescriptioncontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{38FF16BD-FE44-4971-BF9B-B3BA71A23F15}|GraduationProjectAPI\\GraduationProjectAPI.csproj|C:\\Users\\Orginal\\Downloads\\PharmaProAPI-main-1\\PharmaProAPI-main-1\\PharmaProAPI-main\\GraduationProjectAPI\\graduationprojectapi\\controllers\\medicineofprescriptioncontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{38FF16BD-FE44-4971-BF9B-B3BA71A23F15}|GraduationProjectAPI\\GraduationProjectAPI.csproj|solutionrelative:graduationprojectapi\\controllers\\medicineofprescriptioncontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{38FF16BD-FE44-4971-BF9B-B3BA71A23F15}|GraduationProjectAPI\\GraduationProjectAPI.csproj|C:\\Users\\Orginal\\Downloads\\PharmaProAPI-main-1\\PharmaProAPI-main-1\\PharmaProAPI-main\\GraduationProjectAPI\\graduationprojectapi\\bl\\repos\\prescriptionrepo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{38FF16BD-FE44-4971-BF9B-B3BA71A23F15}|GraduationProjectAPI\\GraduationProjectAPI.csproj|solutionrelative:graduationprojectapi\\bl\\repos\\prescriptionrepo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{38FF16BD-FE44-4971-BF9B-B3BA71A23F15}|GraduationProjectAPI\\GraduationProjectAPI.csproj|C:\\Users\\Orginal\\Downloads\\PharmaProAPI-main-1\\PharmaProAPI-main-1\\PharmaProAPI-main\\GraduationProjectAPI\\graduationprojectapi\\bl\\repos\\doctorrepo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{38FF16BD-FE44-4971-BF9B-B3BA71A23F15}|GraduationProjectAPI\\GraduationProjectAPI.csproj|solutionrelative:graduationprojectapi\\bl\\repos\\doctorrepo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{38FF16BD-FE44-4971-BF9B-B3BA71A23F15}|GraduationProjectAPI\\GraduationProjectAPI.csproj|C:\\Users\\Orginal\\Downloads\\PharmaProAPI-main-1\\PharmaProAPI-main-1\\PharmaProAPI-main\\GraduationProjectAPI\\graduationprojectapi\\bl\\services\\prescrptionsender.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{38FF16BD-FE44-4971-BF9B-B3BA71A23F15}|GraduationProjectAPI\\GraduationProjectAPI.csproj|solutionrelative:graduationprojectapi\\bl\\services\\prescrptionsender.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{38FF16BD-FE44-4971-BF9B-B3BA71A23F15}|GraduationProjectAPI\\GraduationProjectAPI.csproj|C:\\Users\\Orginal\\Downloads\\PharmaProAPI-main-1\\PharmaProAPI-main-1\\PharmaProAPI-main\\GraduationProjectAPI\\graduationprojectapi\\bl\\vm\\prescriptionvm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{38FF16BD-FE44-4971-BF9B-B3BA71A23F15}|GraduationProjectAPI\\GraduationProjectAPI.csproj|solutionrelative:graduationprojectapi\\bl\\vm\\prescriptionvm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{38FF16BD-FE44-4971-BF9B-B3BA71A23F15}|GraduationProjectAPI\\GraduationProjectAPI.csproj|C:\\Users\\Orginal\\Downloads\\PharmaProAPI-main-1\\PharmaProAPI-main-1\\PharmaProAPI-main\\GraduationProjectAPI\\graduationprojectapi\\dal\\models\\medicineofprescription.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{38FF16BD-FE44-4971-BF9B-B3BA71A23F15}|GraduationProjectAPI\\GraduationProjectAPI.csproj|solutionrelative:graduationprojectapi\\dal\\models\\medicineofprescription.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{38FF16BD-FE44-4971-BF9B-B3BA71A23F15}|GraduationProjectAPI\\GraduationProjectAPI.csproj|C:\\Users\\Orginal\\Downloads\\PharmaProAPI-main-1\\PharmaProAPI-main-1\\PharmaProAPI-main\\GraduationProjectAPI\\graduationprojectapi\\dal\\models\\prescription.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{38FF16BD-FE44-4971-BF9B-B3BA71A23F15}|GraduationProjectAPI\\GraduationProjectAPI.csproj|solutionrelative:graduationprojectapi\\dal\\models\\prescription.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{38FF16BD-FE44-4971-BF9B-B3BA71A23F15}|GraduationProjectAPI\\GraduationProjectAPI.csproj|C:\\Users\\Orginal\\Downloads\\PharmaProAPI-main-1\\PharmaProAPI-main-1\\PharmaProAPI-main\\GraduationProjectAPI\\graduationprojectapi\\dal\\models\\doctor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{38FF16BD-FE44-4971-BF9B-B3BA71A23F15}|GraduationProjectAPI\\GraduationProjectAPI.csproj|solutionrelative:graduationprojectapi\\dal\\models\\doctor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{38FF16BD-FE44-4971-BF9B-B3BA71A23F15}|GraduationProjectAPI\\GraduationProjectAPI.csproj|C:\\Users\\Orginal\\Downloads\\PharmaProAPI-main-1\\PharmaProAPI-main-1\\PharmaProAPI-main\\GraduationProjectAPI\\graduationprojectapi\\dal\\models\\medicine.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{38FF16BD-FE44-4971-BF9B-B3BA71A23F15}|GraduationProjectAPI\\GraduationProjectAPI.csproj|solutionrelative:graduationprojectapi\\dal\\models\\medicine.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{38FF16BD-FE44-4971-BF9B-B3BA71A23F15}|GraduationProjectAPI\\GraduationProjectAPI.csproj|C:\\Users\\Orginal\\Downloads\\PharmaProAPI-main-1\\PharmaProAPI-main-1\\PharmaProAPI-main\\GraduationProjectAPI\\graduationprojectapi\\bl\\vm\\medicineofprescriptionvm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{38FF16BD-FE44-4971-BF9B-B3BA71A23F15}|GraduationProjectAPI\\GraduationProjectAPI.csproj|solutionrelative:graduationprojectapi\\bl\\vm\\medicineofprescriptionvm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{38FF16BD-FE44-4971-BF9B-B3BA71A23F15}|GraduationProjectAPI\\GraduationProjectAPI.csproj|C:\\Users\\Orginal\\Downloads\\PharmaProAPI-main-1\\PharmaProAPI-main-1\\PharmaProAPI-main\\GraduationProjectAPI\\graduationprojectapi\\bl\\vm\\orderhistoryvm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{38FF16BD-FE44-4971-BF9B-B3BA71A23F15}|GraduationProjectAPI\\GraduationProjectAPI.csproj|solutionrelative:graduationprojectapi\\bl\\vm\\orderhistoryvm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{38FF16BD-FE44-4971-BF9B-B3BA71A23F15}|GraduationProjectAPI\\GraduationProjectAPI.csproj|C:\\Users\\Orginal\\Downloads\\PharmaProAPI-main-1\\PharmaProAPI-main-1\\PharmaProAPI-main\\GraduationProjectAPI\\graduationprojectapi\\bl\\interfaces\\idoctor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{38FF16BD-FE44-4971-BF9B-B3BA71A23F15}|GraduationProjectAPI\\GraduationProjectAPI.csproj|solutionrelative:graduationprojectapi\\bl\\interfaces\\idoctor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{38FF16BD-FE44-4971-BF9B-B3BA71A23F15}|GraduationProjectAPI\\GraduationProjectAPI.csproj|C:\\Users\\Orginal\\Downloads\\PharmaProAPI-main-1\\PharmaProAPI-main-1\\PharmaProAPI-main\\GraduationProjectAPI\\graduationprojectapi\\bl\\vm\\prescriptionwithpharmacistidvm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{38FF16BD-FE44-4971-BF9B-B3BA71A23F15}|GraduationProjectAPI\\GraduationProjectAPI.csproj|solutionrelative:graduationprojectapi\\bl\\vm\\prescriptionwithpharmacistidvm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{38FF16BD-FE44-4971-BF9B-B3BA71A23F15}|GraduationProjectAPI\\GraduationProjectAPI.csproj|C:\\Users\\Orginal\\Downloads\\PharmaProAPI-main-1\\PharmaProAPI-main-1\\PharmaProAPI-main\\GraduationProjectAPI\\graduationprojectapi\\dal\\models\\patient.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{38FF16BD-FE44-4971-BF9B-B3BA71A23F15}|GraduationProjectAPI\\GraduationProjectAPI.csproj|solutionrelative:graduationprojectapi\\dal\\models\\patient.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{38FF16BD-FE44-4971-BF9B-B3BA71A23F15}|GraduationProjectAPI\\GraduationProjectAPI.csproj|C:\\Users\\Orginal\\Downloads\\PharmaProAPI-main-1\\PharmaProAPI-main-1\\PharmaProAPI-main\\GraduationProjectAPI\\graduationprojectapi\\dal\\models\\orderhistory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{38FF16BD-FE44-4971-BF9B-B3BA71A23F15}|GraduationProjectAPI\\GraduationProjectAPI.csproj|solutionrelative:graduationprojectapi\\dal\\models\\orderhistory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{38FF16BD-FE44-4971-BF9B-B3BA71A23F15}|GraduationProjectAPI\\GraduationProjectAPI.csproj|C:\\Users\\Orginal\\Downloads\\PharmaProAPI-main-1\\PharmaProAPI-main-1\\PharmaProAPI-main\\GraduationProjectAPI\\graduationprojectapi\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{38FF16BD-FE44-4971-BF9B-B3BA71A23F15}|GraduationProjectAPI\\GraduationProjectAPI.csproj|solutionrelative:graduationprojectapi\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{38FF16BD-FE44-4971-BF9B-B3BA71A23F15}|GraduationProjectAPI\\GraduationProjectAPI.csproj|C:\\Users\\Orginal\\Downloads\\PharmaProAPI-main-1\\PharmaProAPI-main-1\\PharmaProAPI-main\\GraduationProjectAPI\\graduationprojectapi\\bl\\vm\\doctorregistervm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{38FF16BD-FE44-4971-BF9B-B3BA71A23F15}|GraduationProjectAPI\\GraduationProjectAPI.csproj|solutionrelative:graduationprojectapi\\bl\\vm\\doctorregistervm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{38FF16BD-FE44-4971-BF9B-B3BA71A23F15}|GraduationProjectAPI\\GraduationProjectAPI.csproj|C:\\Users\\Orginal\\Downloads\\PharmaProAPI-main-1\\PharmaProAPI-main-1\\PharmaProAPI-main\\GraduationProjectAPI\\graduationprojectapi\\controllers\\pharmacistcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{38FF16BD-FE44-4971-BF9B-B3BA71A23F15}|GraduationProjectAPI\\GraduationProjectAPI.csproj|solutionrelative:graduationprojectapi\\controllers\\pharmacistcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{38FF16BD-FE44-4971-BF9B-B3BA71A23F15}|GraduationProjectAPI\\GraduationProjectAPI.csproj|C:\\Users\\Orginal\\Downloads\\PharmaProAPI-main-1\\PharmaProAPI-main-1\\PharmaProAPI-main\\GraduationProjectAPI\\graduationprojectapi\\bl\\interfaces\\imedicineofprescription.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{38FF16BD-FE44-4971-BF9B-B3BA71A23F15}|GraduationProjectAPI\\GraduationProjectAPI.csproj|solutionrelative:graduationprojectapi\\bl\\interfaces\\imedicineofprescription.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{38FF16BD-FE44-4971-BF9B-B3BA71A23F15}|GraduationProjectAPI\\GraduationProjectAPI.csproj|C:\\Users\\Orginal\\Downloads\\PharmaProAPI-main-1\\PharmaProAPI-main-1\\PharmaProAPI-main\\GraduationProjectAPI\\graduationprojectapi\\bl\\repos\\medicineofprescriptionrepo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{38FF16BD-FE44-4971-BF9B-B3BA71A23F15}|GraduationProjectAPI\\GraduationProjectAPI.csproj|solutionrelative:graduationprojectapi\\bl\\repos\\medicineofprescriptionrepo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{38FF16BD-FE44-4971-BF9B-B3BA71A23F15}|GraduationProjectAPI\\GraduationProjectAPI.csproj|C:\\Users\\Orginal\\Downloads\\PharmaProAPI-main-1\\PharmaProAPI-main-1\\PharmaProAPI-main\\GraduationProjectAPI\\graduationprojectapi\\bl\\automapper\\myprofile.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{38FF16BD-FE44-4971-BF9B-B3BA71A23F15}|GraduationProjectAPI\\GraduationProjectAPI.csproj|solutionrelative:graduationprojectapi\\bl\\automapper\\myprofile.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{38FF16BD-FE44-4971-BF9B-B3BA71A23F15}|GraduationProjectAPI\\GraduationProjectAPI.csproj|C:\\Users\\Orginal\\Downloads\\PharmaProAPI-main-1\\PharmaProAPI-main-1\\PharmaProAPI-main\\GraduationProjectAPI\\graduationprojectapi\\bl\\interfaces\\iprescription.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{38FF16BD-FE44-4971-BF9B-B3BA71A23F15}|GraduationProjectAPI\\GraduationProjectAPI.csproj|solutionrelative:graduationprojectapi\\bl\\interfaces\\iprescription.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{38FF16BD-FE44-4971-BF9B-B3BA71A23F15}|GraduationProjectAPI\\GraduationProjectAPI.csproj|C:\\Users\\Orginal\\Downloads\\PharmaProAPI-main-1\\PharmaProAPI-main-1\\PharmaProAPI-main\\GraduationProjectAPI\\graduationprojectapi\\dal\\models\\pharmacist.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{38FF16BD-FE44-4971-BF9B-B3BA71A23F15}|GraduationProjectAPI\\GraduationProjectAPI.csproj|solutionrelative:graduationprojectapi\\dal\\models\\pharmacist.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{38FF16BD-FE44-4971-BF9B-B3BA71A23F15}|GraduationProjectAPI\\GraduationProjectAPI.csproj|C:\\Users\\Orginal\\Downloads\\PharmaProAPI-main-1\\PharmaProAPI-main-1\\PharmaProAPI-main\\GraduationProjectAPI\\graduationprojectapi\\bl\\interfaces\\ipharmacist.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{38FF16BD-FE44-4971-BF9B-B3BA71A23F15}|GraduationProjectAPI\\GraduationProjectAPI.csproj|solutionrelative:graduationprojectapi\\bl\\interfaces\\ipharmacist.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{38FF16BD-FE44-4971-BF9B-B3BA71A23F15}|GraduationProjectAPI\\GraduationProjectAPI.csproj|C:\\Users\\Orginal\\Downloads\\PharmaProAPI-main-1\\PharmaProAPI-main-1\\PharmaProAPI-main\\GraduationProjectAPI\\graduationprojectapi\\controllers\\doctorcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{38FF16BD-FE44-4971-BF9B-B3BA71A23F15}|GraduationProjectAPI\\GraduationProjectAPI.csproj|solutionrelative:graduationprojectapi\\controllers\\doctorcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{38FF16BD-FE44-4971-BF9B-B3BA71A23F15}|GraduationProjectAPI\\GraduationProjectAPI.csproj|C:\\Users\\Orginal\\Downloads\\PharmaProAPI-main-1\\PharmaProAPI-main-1\\PharmaProAPI-main\\GraduationProjectAPI\\graduationprojectapi\\bl\\vm\\resetpasswordvm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{38FF16BD-FE44-4971-BF9B-B3BA71A23F15}|GraduationProjectAPI\\GraduationProjectAPI.csproj|solutionrelative:graduationprojectapi\\bl\\vm\\resetpasswordvm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{38FF16BD-FE44-4971-BF9B-B3BA71A23F15}|GraduationProjectAPI\\GraduationProjectAPI.csproj|C:\\Users\\Orginal\\Downloads\\PharmaProAPI-main-1\\PharmaProAPI-main-1\\PharmaProAPI-main\\GraduationProjectAPI\\graduationprojectapi\\bl\\vm\\patientvm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{38FF16BD-FE44-4971-BF9B-B3BA71A23F15}|GraduationProjectAPI\\GraduationProjectAPI.csproj|solutionrelative:graduationprojectapi\\bl\\vm\\patientvm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{38FF16BD-FE44-4971-BF9B-B3BA71A23F15}|GraduationProjectAPI\\GraduationProjectAPI.csproj|C:\\Users\\Orginal\\Downloads\\PharmaProAPI-main-1\\PharmaProAPI-main-1\\PharmaProAPI-main\\GraduationProjectAPI\\graduationprojectapi\\bl\\vm\\pharmacistvm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{38FF16BD-FE44-4971-BF9B-B3BA71A23F15}|GraduationProjectAPI\\GraduationProjectAPI.csproj|solutionrelative:graduationprojectapi\\bl\\vm\\pharmacistvm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{38FF16BD-FE44-4971-BF9B-B3BA71A23F15}|GraduationProjectAPI\\GraduationProjectAPI.csproj|C:\\Users\\Orginal\\Downloads\\PharmaProAPI-main-1\\PharmaProAPI-main-1\\PharmaProAPI-main\\GraduationProjectAPI\\graduationprojectapi\\bl\\interfaces\\imedicine.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{38FF16BD-FE44-4971-BF9B-B3BA71A23F15}|GraduationProjectAPI\\GraduationProjectAPI.csproj|solutionrelative:graduationprojectapi\\bl\\interfaces\\imedicine.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{38FF16BD-FE44-4971-BF9B-B3BA71A23F15}|GraduationProjectAPI\\GraduationProjectAPI.csproj|C:\\Users\\Orginal\\Downloads\\PharmaProAPI-main-1\\PharmaProAPI-main-1\\PharmaProAPI-main\\GraduationProjectAPI\\graduationprojectapi\\bl\\interfaces\\ipatient.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{38FF16BD-FE44-4971-BF9B-B3BA71A23F15}|GraduationProjectAPI\\GraduationProjectAPI.csproj|solutionrelative:graduationprojectapi\\bl\\interfaces\\ipatient.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{38FF16BD-FE44-4971-BF9B-B3BA71A23F15}|GraduationProjectAPI\\GraduationProjectAPI.csproj|C:\\Users\\Orginal\\Downloads\\PharmaProAPI-main-1\\PharmaProAPI-main-1\\PharmaProAPI-main\\GraduationProjectAPI\\graduationprojectapi\\bl\\services\\mailsender.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{38FF16BD-FE44-4971-BF9B-B3BA71A23F15}|GraduationProjectAPI\\GraduationProjectAPI.csproj|solutionrelative:graduationprojectapi\\bl\\services\\mailsender.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{38FF16BD-FE44-4971-BF9B-B3BA71A23F15}|GraduationProjectAPI\\GraduationProjectAPI.csproj|C:\\Users\\Orginal\\Downloads\\PharmaProAPI-main-1\\PharmaProAPI-main-1\\PharmaProAPI-main\\GraduationProjectAPI\\graduationprojectapi\\bl\\services\\generator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{38FF16BD-FE44-4971-BF9B-B3BA71A23F15}|GraduationProjectAPI\\GraduationProjectAPI.csproj|solutionrelative:graduationprojectapi\\bl\\services\\generator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{38FF16BD-FE44-4971-BF9B-B3BA71A23F15}|GraduationProjectAPI\\GraduationProjectAPI.csproj|C:\\Users\\Orginal\\Downloads\\PharmaProAPI-main-1\\PharmaProAPI-main-1\\PharmaProAPI-main\\GraduationProjectAPI\\graduationprojectapi\\graduationprojectapi.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{38FF16BD-FE44-4971-BF9B-B3BA71A23F15}|GraduationProjectAPI\\GraduationProjectAPI.csproj|solutionrelative:graduationprojectapi\\graduationprojectapi.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{38FF16BD-FE44-4971-BF9B-B3BA71A23F15}|GraduationProjectAPI\\GraduationProjectAPI.csproj|C:\\Users\\Orginal\\Downloads\\PharmaProAPI-main-1\\PharmaProAPI-main-1\\PharmaProAPI-main\\GraduationProjectAPI\\graduationprojectapi\\bl\\vm\\forgetpasswordvm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{38FF16BD-FE44-4971-BF9B-B3BA71A23F15}|GraduationProjectAPI\\GraduationProjectAPI.csproj|solutionrelative:graduationprojectapi\\bl\\vm\\forgetpasswordvm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{38FF16BD-FE44-4971-BF9B-B3BA71A23F15}|GraduationProjectAPI\\GraduationProjectAPI.csproj|C:\\Users\\Orginal\\Downloads\\PharmaProAPI-main-1\\PharmaProAPI-main-1\\PharmaProAPI-main\\GraduationProjectAPI\\graduationprojectapi\\dal\\database\\datacontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{38FF16BD-FE44-4971-BF9B-B3BA71A23F15}|GraduationProjectAPI\\GraduationProjectAPI.csproj|solutionrelative:graduationprojectapi\\dal\\database\\datacontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{38FF16BD-FE44-4971-BF9B-B3BA71A23F15}|GraduationProjectAPI\\GraduationProjectAPI.csproj|C:\\Users\\Orginal\\Downloads\\PharmaProAPI-main-1\\PharmaProAPI-main-1\\PharmaProAPI-main\\GraduationProjectAPI\\graduationprojectapi\\migrations\\20240505132251_build-db.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{38FF16BD-FE44-4971-BF9B-B3BA71A23F15}|GraduationProjectAPI\\GraduationProjectAPI.csproj|solutionrelative:graduationprojectapi\\migrations\\20240505132251_build-db.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{38FF16BD-FE44-4971-BF9B-B3BA71A23F15}|GraduationProjectAPI\\GraduationProjectAPI.csproj|C:\\Users\\Orginal\\Downloads\\PharmaProAPI-main-1\\PharmaProAPI-main-1\\PharmaProAPI-main\\GraduationProjectAPI\\graduationprojectapi\\graduationprojectapi.http||{5703B403-55E7-4C63-8C88-A8F52C7A45C5}",
+      "RelativeMoniker": "D:0:0:{38FF16BD-FE44-4971-BF9B-B3BA71A23F15}|GraduationProjectAPI\\GraduationProjectAPI.csproj|solutionrelative:graduationprojectapi\\graduationprojectapi.http||{5703B403-55E7-4C63-8C88-A8F52C7A45C5}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{38FF16BD-FE44-4971-BF9B-B3BA71A23F15}|GraduationProjectAPI\\GraduationProjectAPI.csproj|C:\\Users\\Orginal\\Downloads\\PharmaProAPI-main-1\\PharmaProAPI-main-1\\PharmaProAPI-main\\GraduationProjectAPI\\graduationprojectapi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{38FF16BD-FE44-4971-BF9B-B3BA71A23F15}|GraduationProjectAPI\\GraduationProjectAPI.csproj|solutionrelative:graduationprojectapi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{38FF16BD-FE44-4971-BF9B-B3BA71A23F15}|GraduationProjectAPI\\GraduationProjectAPI.csproj|C:\\Users\\Orginal\\Downloads\\PharmaProAPI-main-1\\PharmaProAPI-main-1\\PharmaProAPI-main\\GraduationProjectAPI\\graduationprojectapi\\controllers\\shelfstatuscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{38FF16BD-FE44-4971-BF9B-B3BA71A23F15}|GraduationProjectAPI\\GraduationProjectAPI.csproj|solutionrelative:graduationprojectapi\\controllers\\shelfstatuscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{38FF16BD-FE44-4971-BF9B-B3BA71A23F15}|GraduationProjectAPI\\GraduationProjectAPI.csproj|C:\\Users\\Orginal\\Downloads\\PharmaProAPI-main-1\\PharmaProAPI-main-1\\PharmaProAPI-main\\GraduationProjectAPI\\graduationprojectapi\\bl\\repos\\medicinerepo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{38FF16BD-FE44-4971-BF9B-B3BA71A23F15}|GraduationProjectAPI\\GraduationProjectAPI.csproj|solutionrelative:graduationprojectapi\\bl\\repos\\medicinerepo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{38FF16BD-FE44-4971-BF9B-B3BA71A23F15}|GraduationProjectAPI\\GraduationProjectAPI.csproj|C:\\Users\\Orginal\\Downloads\\PharmaProAPI-main-1\\PharmaProAPI-main-1\\PharmaProAPI-main\\GraduationProjectAPI\\graduationprojectapi\\dal\\models\\shelfnumberstatus.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{38FF16BD-FE44-4971-BF9B-B3BA71A23F15}|GraduationProjectAPI\\GraduationProjectAPI.csproj|solutionrelative:graduationprojectapi\\dal\\models\\shelfnumberstatus.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{38FF16BD-FE44-4971-BF9B-B3BA71A23F15}|GraduationProjectAPI\\GraduationProjectAPI.csproj|C:\\Users\\Orginal\\Downloads\\PharmaProAPI-main-1\\PharmaProAPI-main-1\\PharmaProAPI-main\\GraduationProjectAPI\\graduationprojectapi\\bl\\vm\\userrolevm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{38FF16BD-FE44-4971-BF9B-B3BA71A23F15}|GraduationProjectAPI\\GraduationProjectAPI.csproj|solutionrelative:graduationprojectapi\\bl\\vm\\userrolevm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{38FF16BD-FE44-4971-BF9B-B3BA71A23F15}|GraduationProjectAPI\\GraduationProjectAPI.csproj|C:\\Users\\Orginal\\Downloads\\PharmaProAPI-main-1\\PharmaProAPI-main-1\\PharmaProAPI-main\\GraduationProjectAPI\\graduationprojectapi\\bl\\vm\\registervm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{38FF16BD-FE44-4971-BF9B-B3BA71A23F15}|GraduationProjectAPI\\GraduationProjectAPI.csproj|solutionrelative:graduationprojectapi\\bl\\vm\\registervm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{38FF16BD-FE44-4971-BF9B-B3BA71A23F15}|GraduationProjectAPI\\GraduationProjectAPI.csproj|C:\\Users\\Orginal\\Downloads\\PharmaProAPI-main-1\\PharmaProAPI-main-1\\PharmaProAPI-main\\GraduationProjectAPI\\graduationprojectapi\\bl\\vm\\medicinevm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{38FF16BD-FE44-4971-BF9B-B3BA71A23F15}|GraduationProjectAPI\\GraduationProjectAPI.csproj|solutionrelative:graduationprojectapi\\bl\\vm\\medicinevm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{38FF16BD-FE44-4971-BF9B-B3BA71A23F15}|GraduationProjectAPI\\GraduationProjectAPI.csproj|C:\\Users\\Orginal\\Downloads\\PharmaProAPI-main-1\\PharmaProAPI-main-1\\PharmaProAPI-main\\GraduationProjectAPI\\graduationprojectapi\\bl\\vm\\loginvm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{38FF16BD-FE44-4971-BF9B-B3BA71A23F15}|GraduationProjectAPI\\GraduationProjectAPI.csproj|solutionrelative:graduationprojectapi\\bl\\vm\\loginvm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{38FF16BD-FE44-4971-BF9B-B3BA71A23F15}|GraduationProjectAPI\\GraduationProjectAPI.csproj|C:\\Users\\Orginal\\Downloads\\PharmaProAPI-main-1\\PharmaProAPI-main-1\\PharmaProAPI-main\\GraduationProjectAPI\\graduationprojectapi\\bl\\vm\\doctorvm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{38FF16BD-FE44-4971-BF9B-B3BA71A23F15}|GraduationProjectAPI\\GraduationProjectAPI.csproj|solutionrelative:graduationprojectapi\\bl\\vm\\doctorvm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\EL-masreya\\Desktop\\GraduationProjectAPI\\GraduationProjectAPI\\Migrations\\20240505120812_build-db.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\EL-masreya\\Desktop\\GraduationProjectAPI\\GraduationProjectAPI\\Migrations\\20240504201155_build-db.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{38FF16BD-FE44-4971-BF9B-B3BA71A23F15}|GraduationProjectAPI\\GraduationProjectAPI.csproj|C:\\Users\\Orginal\\Downloads\\PharmaProAPI-main-1\\PharmaProAPI-main-1\\PharmaProAPI-main\\GraduationProjectAPI\\graduationprojectapi\\bl\\repos\\patientrepo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{38FF16BD-FE44-4971-BF9B-B3BA71A23F15}|GraduationProjectAPI\\GraduationProjectAPI.csproj|solutionrelative:graduationprojectapi\\bl\\repos\\patientrepo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\EL-masreya\\Desktop\\GraduationProjectAPI\\GraduationProjectAPI\\Migrations\\20240504174519_build-db.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\EL-masreya\\Desktop\\GraduationProjectAPI\\GraduationProjectAPI\\Migrations\\20240504081132_build-db.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\EL-masreya\\Desktop\\GraduationProjectAPI\\GraduationProjectAPI\\Migrations\\20240504072308_build-db.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{38FF16BD-FE44-4971-BF9B-B3BA71A23F15}|GraduationProjectAPI\\GraduationProjectAPI.csproj|C:\\Users\\Orginal\\Downloads\\PharmaProAPI-main-1\\PharmaProAPI-main-1\\PharmaProAPI-main\\GraduationProjectAPI\\graduationprojectapi\\bl\\repos\\pharmacistrepo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{38FF16BD-FE44-4971-BF9B-B3BA71A23F15}|GraduationProjectAPI\\GraduationProjectAPI.csproj|solutionrelative:graduationprojectapi\\bl\\repos\\pharmacistrepo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|F:\\GraduationProjectAPI\\GraduationProjectAPI\\Migrations\\20240504050512_build-db.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|F:\\GraduationProjectAPI\\GraduationProjectAPI\\Migrations\\20240504050414_build-db.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\MSBuild\\Current\\Bin\\amd64\\Microsoft.Common.CurrentVersion.targets||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\EL-masreya\\source\\repos\\GraduationProjectAPI\\GraduationProjectAPI\\Migrations\\20240501162345_build-db.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\EL-masreya\\source\\repos\\GraduationProjectAPI\\GraduationProjectAPI\\Migrations\\20240501160925_build-db.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\EL-masreya\\source\\repos\\GraduationProjectAPI\\GraduationProjectAPI\\Migrations\\20240501161822_build-db.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\EL-masreya\\source\\repos\\GraduationProjectAPI\\GraduationProjectAPI\\Migrations\\20240501163539_build-db.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\EL-masreya\\source\\repos\\GraduationProjectAPI\\GraduationProjectAPI\\Migrations\\20240501161723_build-db.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\EL-masreya\\source\\repos\\GraduationProjectAPI\\GraduationProjectAPI\\Migrations\\20240501161439_build-db.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\EL-masreya\\source\\repos\\GraduationProjectAPI\\GraduationProjectAPI\\Migrations\\20240501160445_build-db.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\EL-masreya\\source\\repos\\GraduationProjectAPI\\GraduationProjectAPI\\Migrations\\20240501142324_build-db.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\EL-masreya\\source\\repos\\GraduationProjectAPI\\GraduationProjectAPI\\Migrations\\20240501142204_build-db.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\EL-masreya\\source\\repos\\GraduationProjectAPI\\GraduationProjectAPI\\Migrations\\20240501142024_build-db.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\EL-masreya\\source\\repos\\GraduationProjectAPI\\GraduationProjectAPI\\Migrations\\20240501141428_build-db.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\EL-masreya\\source\\repos\\GraduationProjectAPI\\GraduationProjectAPI\\Migrations\\20240501141306_build-db.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\EL-masreya\\source\\repos\\GraduationProjectAPI\\GraduationProjectAPI\\Migrations\\20240501141207_build-db.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\EL-masreya\\source\\repos\\GraduationProjectAPI\\GraduationProjectAPI\\Migrations\\20240501141056_build-db.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\EL-masreya\\Documents\\GitHub\\ModernizeAPP\\ModernizeApp(API)\\Courses App\\BL\\VM\\ResetpasswordVM.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\EL-masreya\\Downloads\\response_1714532299482.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\EL-masreya\\source\\repos\\GraduationProjectAPI\\GraduationProjectAPI\\Migrations\\20240430232438_build-db.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\EL-masreya\\source\\repos\\GraduationProjectAPI\\GraduationProjectAPI\\Migrations\\20240430232313_build-db.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\EL-masreya\\source\\repos\\GraduationProjectAPI\\GraduationProjectAPI\\Migrations\\20240430232051_build-db.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\EL-masreya\\Documents\\GitHub\\Sales_Office\\WebApplication12\\Controllers\\AccountController.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\EL-masreya\\Downloads\\response_1714489571497.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\EL-masreya\\source\\repos\\GraduationProjectAPI\\GraduationProjectAPI\\Migrations\\20240430145548_build-db.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\EL-masreya\\source\\repos\\GraduationProjectAPI\\GraduationProjectAPI\\Migrations\\20240430144113_build-db.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\EL-masreya\\Documents\\GitHub\\ModernizeAPP\\ModernizeApp(API)\\Courses App\\BL\\Services\\MailSender.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\EL-masreya\\source\\repos\\GraduationProjectAPI\\GraduationProjectAPI\\Migrations\\20240430120736_build-db.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "OrderHistoryController.cs",
+              "DocumentMoniker": "C:\\Users\\Orginal\\Downloads\\PharmaProAPI-main-1\\PharmaProAPI-main-1\\PharmaProAPI-main\\GraduationProjectAPI\\GraduationProjectAPI\\Controllers\\OrderHistoryController.cs",
+              "RelativeDocumentMoniker": "GraduationProjectAPI\\Controllers\\OrderHistoryController.cs",
+              "ToolTip": "C:\\Users\\Orginal\\Downloads\\PharmaProAPI-main-1\\PharmaProAPI-main-1\\PharmaProAPI-main\\GraduationProjectAPI\\GraduationProjectAPI\\Controllers\\OrderHistoryController.cs",
+              "RelativeToolTip": "GraduationProjectAPI\\Controllers\\OrderHistoryController.cs",
+              "ViewState": "AQIAAJcAAAAAAAAAAAAAAJcAAAANAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-03T22:27:00.693Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:1:0:{d212f56b-c48a-434c-a121-1c5d80b59b9f}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{b1e99781-ab81-11d0-b683-00aa00a3ee26}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{004be353-6879-467c-9d1e-9ac23cdf6d49}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{d78612c7-9962-4b83-95d9-268046dad23a}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "AccountController.cs",
+              "DocumentMoniker": "C:\\Users\\Orginal\\Downloads\\PharmaProAPI-main-1\\PharmaProAPI-main-1\\PharmaProAPI-main\\GraduationProjectAPI\\GraduationProjectAPI\\Controllers\\AccountController.cs",
+              "RelativeDocumentMoniker": "GraduationProjectAPI\\Controllers\\AccountController.cs",
+              "ToolTip": "C:\\Users\\Orginal\\Downloads\\PharmaProAPI-main-1\\PharmaProAPI-main-1\\PharmaProAPI-main\\GraduationProjectAPI\\GraduationProjectAPI\\Controllers\\AccountController.cs",
+              "RelativeToolTip": "GraduationProjectAPI\\Controllers\\AccountController.cs",
+              "ViewState": "AQIAAKsCAAAAAAAAAAAAwKgCAAAPAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-30T16:24:39.543Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "CustomResponse.cs",
+              "DocumentMoniker": "C:\\Users\\Orginal\\Downloads\\PharmaProAPI-main-1\\PharmaProAPI-main-1\\PharmaProAPI-main\\GraduationProjectAPI\\GraduationProjectAPI\\BL\\CustomResponse.cs",
+              "RelativeDocumentMoniker": "GraduationProjectAPI\\BL\\CustomResponse.cs",
+              "ToolTip": "C:\\Users\\Orginal\\Downloads\\PharmaProAPI-main-1\\PharmaProAPI-main-1\\PharmaProAPI-main\\GraduationProjectAPI\\GraduationProjectAPI\\BL\\CustomResponse.cs",
+              "RelativeToolTip": "GraduationProjectAPI\\BL\\CustomResponse.cs",
+              "ViewState": "AQIAAAYAAAAAAAAAAAAYwAAAAAAhAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-30T12:53:46.589Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "PatientController.cs",
+              "DocumentMoniker": "C:\\Users\\Orginal\\Downloads\\PharmaProAPI-main-1\\PharmaProAPI-main-1\\PharmaProAPI-main\\GraduationProjectAPI\\GraduationProjectAPI\\Controllers\\PatientController.cs",
+              "RelativeDocumentMoniker": "GraduationProjectAPI\\Controllers\\PatientController.cs",
+              "ToolTip": "C:\\Users\\Orginal\\Downloads\\PharmaProAPI-main-1\\PharmaProAPI-main-1\\PharmaProAPI-main\\GraduationProjectAPI\\GraduationProjectAPI\\Controllers\\PatientController.cs",
+              "RelativeToolTip": "GraduationProjectAPI\\Controllers\\PatientController.cs",
+              "ViewState": "AQIAAJwAAAAAAAAAAAApwBkAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-30T13:12:54.07Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "OrderHistoryRepo.cs",
+              "DocumentMoniker": "C:\\Users\\Orginal\\Downloads\\PharmaProAPI-main-1\\PharmaProAPI-main-1\\PharmaProAPI-main\\GraduationProjectAPI\\GraduationProjectAPI\\BL\\Repos\\OrderHistoryRepo.cs",
+              "RelativeDocumentMoniker": "GraduationProjectAPI\\BL\\Repos\\OrderHistoryRepo.cs",
+              "ToolTip": "C:\\Users\\Orginal\\Downloads\\PharmaProAPI-main-1\\PharmaProAPI-main-1\\PharmaProAPI-main\\GraduationProjectAPI\\GraduationProjectAPI\\BL\\Repos\\OrderHistoryRepo.cs",
+              "RelativeToolTip": "GraduationProjectAPI\\BL\\Repos\\OrderHistoryRepo.cs",
+              "ViewState": "AQIAAB8AAAAAAAAAAAAAAA0AAAAIAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-03T22:22:46.158Z"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{99b8fa2f-ab90-4f57-9c32-949f146f1914}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "MedicinesController.cs",
+              "DocumentMoniker": "C:\\Users\\Orginal\\Downloads\\PharmaProAPI-main-1\\PharmaProAPI-main-1\\PharmaProAPI-main\\GraduationProjectAPI\\GraduationProjectAPI\\Controllers\\MedicinesController.cs",
+              "RelativeDocumentMoniker": "GraduationProjectAPI\\Controllers\\MedicinesController.cs",
+              "ToolTip": "C:\\Users\\Orginal\\Downloads\\PharmaProAPI-main-1\\PharmaProAPI-main-1\\PharmaProAPI-main\\GraduationProjectAPI\\GraduationProjectAPI\\Controllers\\MedicinesController.cs",
+              "RelativeToolTip": "GraduationProjectAPI\\Controllers\\MedicinesController.cs",
+              "ViewState": "AQIAAMgAAAAAAAAAAAAwwNYAAAAoAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-01T13:07:39.521Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "IOrderHistories.cs",
+              "DocumentMoniker": "C:\\Users\\Orginal\\Downloads\\PharmaProAPI-main-1\\PharmaProAPI-main-1\\PharmaProAPI-main\\GraduationProjectAPI\\GraduationProjectAPI\\BL\\Interfaces\\IOrderHistories.cs",
+              "RelativeDocumentMoniker": "GraduationProjectAPI\\BL\\Interfaces\\IOrderHistories.cs",
+              "ToolTip": "C:\\Users\\Orginal\\Downloads\\PharmaProAPI-main-1\\PharmaProAPI-main-1\\PharmaProAPI-main\\GraduationProjectAPI\\GraduationProjectAPI\\BL\\Interfaces\\IOrderHistories.cs",
+              "RelativeToolTip": "GraduationProjectAPI\\BL\\Interfaces\\IOrderHistories.cs",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAAAAgAAAAUAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-03T22:21:36.808Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "SendNotificationJob.cs",
+              "DocumentMoniker": "C:\\Users\\Orginal\\Downloads\\PharmaProAPI-main-1\\PharmaProAPI-main-1\\PharmaProAPI-main\\GraduationProjectAPI\\GraduationProjectAPI\\BL\\BackgroindJob\\SendNotificationJob.cs",
+              "RelativeDocumentMoniker": "GraduationProjectAPI\\BL\\BackgroindJob\\SendNotificationJob.cs",
+              "ToolTip": "C:\\Users\\Orginal\\Downloads\\PharmaProAPI-main-1\\PharmaProAPI-main-1\\PharmaProAPI-main\\GraduationProjectAPI\\GraduationProjectAPI\\BL\\BackgroindJob\\SendNotificationJob.cs",
+              "RelativeToolTip": "GraduationProjectAPI\\BL\\BackgroindJob\\SendNotificationJob.cs",
+              "ViewState": "AQIAABIAAAAAAAAAAAAEwB8AAAAIAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-01T18:08:43.706Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "PrescriptionRepo.cs",
+              "DocumentMoniker": "C:\\Users\\Orginal\\Downloads\\PharmaProAPI-main-1\\PharmaProAPI-main-1\\PharmaProAPI-main\\GraduationProjectAPI\\GraduationProjectAPI\\BL\\Repos\\PrescriptionRepo.cs",
+              "RelativeDocumentMoniker": "GraduationProjectAPI\\BL\\Repos\\PrescriptionRepo.cs",
+              "ToolTip": "C:\\Users\\Orginal\\Downloads\\PharmaProAPI-main-1\\PharmaProAPI-main-1\\PharmaProAPI-main\\GraduationProjectAPI\\GraduationProjectAPI\\BL\\Repos\\PrescriptionRepo.cs",
+              "RelativeToolTip": "GraduationProjectAPI\\BL\\Repos\\PrescriptionRepo.cs",
+              "ViewState": "AQIAAHAAAAAAAAAAAAAqwHgAAAAIAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-01T13:33:45.355Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "PrescriptionController.cs",
+              "DocumentMoniker": "C:\\Users\\Orginal\\Downloads\\PharmaProAPI-main-1\\PharmaProAPI-main-1\\PharmaProAPI-main\\GraduationProjectAPI\\GraduationProjectAPI\\Controllers\\PrescriptionController.cs",
+              "RelativeDocumentMoniker": "GraduationProjectAPI\\Controllers\\PrescriptionController.cs",
+              "ToolTip": "C:\\Users\\Orginal\\Downloads\\PharmaProAPI-main-1\\PharmaProAPI-main-1\\PharmaProAPI-main\\GraduationProjectAPI\\GraduationProjectAPI\\Controllers\\PrescriptionController.cs",
+              "RelativeToolTip": "GraduationProjectAPI\\Controllers\\PrescriptionController.cs",
+              "ViewState": "AQIAAA4AAAAAAAAAAAAgwBAAAAAgAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-01T13:41:56.628Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "MedicineOfPrescriptionController.cs",
+              "DocumentMoniker": "C:\\Users\\Orginal\\Downloads\\PharmaProAPI-main-1\\PharmaProAPI-main-1\\PharmaProAPI-main\\GraduationProjectAPI\\GraduationProjectAPI\\Controllers\\MedicineOfPrescriptionController.cs",
+              "RelativeDocumentMoniker": "GraduationProjectAPI\\Controllers\\MedicineOfPrescriptionController.cs",
+              "ToolTip": "C:\\Users\\Orginal\\Downloads\\PharmaProAPI-main-1\\PharmaProAPI-main-1\\PharmaProAPI-main\\GraduationProjectAPI\\GraduationProjectAPI\\Controllers\\MedicineOfPrescriptionController.cs",
+              "RelativeToolTip": "GraduationProjectAPI\\Controllers\\MedicineOfPrescriptionController.cs",
+              "ViewState": "AQIAAEEAAAAAAAAAAAAswE0AAAARAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-01T22:40:48.934Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "PrescriptionVM.cs",
+              "DocumentMoniker": "C:\\Users\\Orginal\\Downloads\\PharmaProAPI-main-1\\PharmaProAPI-main-1\\PharmaProAPI-main\\GraduationProjectAPI\\GraduationProjectAPI\\BL\\VM\\PrescriptionVM.cs",
+              "RelativeDocumentMoniker": "GraduationProjectAPI\\BL\\VM\\PrescriptionVM.cs",
+              "ToolTip": "C:\\Users\\Orginal\\Downloads\\PharmaProAPI-main-1\\PharmaProAPI-main-1\\PharmaProAPI-main\\GraduationProjectAPI\\GraduationProjectAPI\\BL\\VM\\PrescriptionVM.cs",
+              "RelativeToolTip": "GraduationProjectAPI\\BL\\VM\\PrescriptionVM.cs",
+              "ViewState": "AQIAAAEAAAAAAAAAAAAmwAsAAAAIAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-30T12:31:55.608Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "PrescrptionSender.cs",
+              "DocumentMoniker": "C:\\Users\\Orginal\\Downloads\\PharmaProAPI-main-1\\PharmaProAPI-main-1\\PharmaProAPI-main\\GraduationProjectAPI\\GraduationProjectAPI\\BL\\Services\\PrescrptionSender.cs",
+              "RelativeDocumentMoniker": "GraduationProjectAPI\\BL\\Services\\PrescrptionSender.cs",
+              "ToolTip": "C:\\Users\\Orginal\\Downloads\\PharmaProAPI-main-1\\PharmaProAPI-main-1\\PharmaProAPI-main\\GraduationProjectAPI\\GraduationProjectAPI\\BL\\Services\\PrescrptionSender.cs",
+              "RelativeToolTip": "GraduationProjectAPI\\BL\\Services\\PrescrptionSender.cs",
+              "ViewState": "AQIAAAYAAAAAAAAAAAA+wAwAAAAMAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-03T13:47:33.434Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "DoctorRepo.cs",
+              "DocumentMoniker": "C:\\Users\\Orginal\\Downloads\\PharmaProAPI-main-1\\PharmaProAPI-main-1\\PharmaProAPI-main\\GraduationProjectAPI\\GraduationProjectAPI\\BL\\Repos\\DoctorRepo.cs",
+              "RelativeDocumentMoniker": "GraduationProjectAPI\\BL\\Repos\\DoctorRepo.cs",
+              "ToolTip": "C:\\Users\\Orginal\\Downloads\\PharmaProAPI-main-1\\PharmaProAPI-main-1\\PharmaProAPI-main\\GraduationProjectAPI\\GraduationProjectAPI\\BL\\Repos\\DoctorRepo.cs",
+              "RelativeToolTip": "GraduationProjectAPI\\BL\\Repos\\DoctorRepo.cs",
+              "ViewState": "AQIAABMAAAAAAAAAAAAqwB0AAAAIAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-03T16:47:48.199Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "Medicine.cs",
+              "DocumentMoniker": "C:\\Users\\Orginal\\Downloads\\PharmaProAPI-main-1\\PharmaProAPI-main-1\\PharmaProAPI-main\\GraduationProjectAPI\\GraduationProjectAPI\\DAL\\Models\\Medicine.cs",
+              "RelativeDocumentMoniker": "GraduationProjectAPI\\DAL\\Models\\Medicine.cs",
+              "ToolTip": "C:\\Users\\Orginal\\Downloads\\PharmaProAPI-main-1\\PharmaProAPI-main-1\\PharmaProAPI-main\\GraduationProjectAPI\\GraduationProjectAPI\\DAL\\Models\\Medicine.cs",
+              "RelativeToolTip": "GraduationProjectAPI\\DAL\\Models\\Medicine.cs",
+              "ViewState": "AQIAABMAAAAAAAAAAAAiwBwAAABOAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-30T11:27:49.33Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "MedicineOfPrescription.cs",
+              "DocumentMoniker": "C:\\Users\\Orginal\\Downloads\\PharmaProAPI-main-1\\PharmaProAPI-main-1\\PharmaProAPI-main\\GraduationProjectAPI\\GraduationProjectAPI\\DAL\\Models\\MedicineOfPrescription.cs",
+              "RelativeDocumentMoniker": "GraduationProjectAPI\\DAL\\Models\\MedicineOfPrescription.cs",
+              "ToolTip": "C:\\Users\\Orginal\\Downloads\\PharmaProAPI-main-1\\PharmaProAPI-main-1\\PharmaProAPI-main\\GraduationProjectAPI\\GraduationProjectAPI\\DAL\\Models\\MedicineOfPrescription.cs",
+              "RelativeToolTip": "GraduationProjectAPI\\DAL\\Models\\MedicineOfPrescription.cs",
+              "ViewState": "AQIAAAkAAAAAAAAAAAAwwBQAAAAlAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-30T11:31:23.139Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "Prescription.cs",
+              "DocumentMoniker": "C:\\Users\\Orginal\\Downloads\\PharmaProAPI-main-1\\PharmaProAPI-main-1\\PharmaProAPI-main\\GraduationProjectAPI\\GraduationProjectAPI\\DAL\\Models\\Prescription.cs",
+              "RelativeDocumentMoniker": "GraduationProjectAPI\\DAL\\Models\\Prescription.cs",
+              "ToolTip": "C:\\Users\\Orginal\\Downloads\\PharmaProAPI-main-1\\PharmaProAPI-main-1\\PharmaProAPI-main\\GraduationProjectAPI\\GraduationProjectAPI\\DAL\\Models\\Prescription.cs",
+              "RelativeToolTip": "GraduationProjectAPI\\DAL\\Models\\Prescription.cs",
+              "ViewState": "AQIAABYAAAAAAAAAAIA/wBwAAAAuAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-30T11:24:17.79Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "Doctor.cs",
+              "DocumentMoniker": "C:\\Users\\Orginal\\Downloads\\PharmaProAPI-main-1\\PharmaProAPI-main-1\\PharmaProAPI-main\\GraduationProjectAPI\\GraduationProjectAPI\\DAL\\Models\\Doctor.cs",
+              "RelativeDocumentMoniker": "GraduationProjectAPI\\DAL\\Models\\Doctor.cs",
+              "ToolTip": "C:\\Users\\Orginal\\Downloads\\PharmaProAPI-main-1\\PharmaProAPI-main-1\\PharmaProAPI-main\\GraduationProjectAPI\\GraduationProjectAPI\\DAL\\Models\\Doctor.cs",
+              "RelativeToolTip": "GraduationProjectAPI\\DAL\\Models\\Doctor.cs",
+              "ViewState": "AQIAAAwAAAAAAAAAAAAAABMAAAA7AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-30T11:12:55.135Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "MedicineOfPrescriptionVM.cs",
+              "DocumentMoniker": "C:\\Users\\Orginal\\Downloads\\PharmaProAPI-main-1\\PharmaProAPI-main-1\\PharmaProAPI-main\\GraduationProjectAPI\\GraduationProjectAPI\\BL\\VM\\MedicineOfPrescriptionVM.cs",
+              "RelativeDocumentMoniker": "GraduationProjectAPI\\BL\\VM\\MedicineOfPrescriptionVM.cs",
+              "ToolTip": "C:\\Users\\Orginal\\Downloads\\PharmaProAPI-main-1\\PharmaProAPI-main-1\\PharmaProAPI-main\\GraduationProjectAPI\\GraduationProjectAPI\\BL\\VM\\MedicineOfPrescriptionVM.cs",
+              "RelativeToolTip": "GraduationProjectAPI\\BL\\VM\\MedicineOfPrescriptionVM.cs",
+              "ViewState": "AQIAABYAAAAAAAAAAAAiwBwAAAAkAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-30T12:37:33.748Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "OrderHistoryVM.cs",
+              "DocumentMoniker": "C:\\Users\\Orginal\\Downloads\\PharmaProAPI-main-1\\PharmaProAPI-main-1\\PharmaProAPI-main\\GraduationProjectAPI\\GraduationProjectAPI\\BL\\VM\\OrderHistoryVM.cs",
+              "RelativeDocumentMoniker": "GraduationProjectAPI\\BL\\VM\\OrderHistoryVM.cs",
+              "ToolTip": "C:\\Users\\Orginal\\Downloads\\PharmaProAPI-main-1\\PharmaProAPI-main-1\\PharmaProAPI-main\\GraduationProjectAPI\\GraduationProjectAPI\\BL\\VM\\OrderHistoryVM.cs",
+              "RelativeToolTip": "GraduationProjectAPI\\BL\\VM\\OrderHistoryVM.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAqwAsAAAAIAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-30T12:36:25.356Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "IDoctor.cs",
+              "DocumentMoniker": "C:\\Users\\Orginal\\Downloads\\PharmaProAPI-main-1\\PharmaProAPI-main-1\\PharmaProAPI-main\\GraduationProjectAPI\\GraduationProjectAPI\\BL\\Interfaces\\IDoctor.cs",
+              "RelativeDocumentMoniker": "GraduationProjectAPI\\BL\\Interfaces\\IDoctor.cs",
+              "ToolTip": "C:\\Users\\Orginal\\Downloads\\PharmaProAPI-main-1\\PharmaProAPI-main-1\\PharmaProAPI-main\\GraduationProjectAPI\\GraduationProjectAPI\\BL\\Interfaces\\IDoctor.cs",
+              "RelativeToolTip": "GraduationProjectAPI\\BL\\Interfaces\\IDoctor.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAQAAAAcAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-30T12:57:10.239Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "PrescriptionWithPharmacistIDVM.cs",
+              "DocumentMoniker": "C:\\Users\\Orginal\\Downloads\\PharmaProAPI-main-1\\PharmaProAPI-main-1\\PharmaProAPI-main\\GraduationProjectAPI\\GraduationProjectAPI\\BL\\VM\\PrescriptionWithPharmacistIDVM.cs",
+              "RelativeDocumentMoniker": "GraduationProjectAPI\\BL\\VM\\PrescriptionWithPharmacistIDVM.cs",
+              "ToolTip": "C:\\Users\\Orginal\\Downloads\\PharmaProAPI-main-1\\PharmaProAPI-main-1\\PharmaProAPI-main\\GraduationProjectAPI\\GraduationProjectAPI\\BL\\VM\\PrescriptionWithPharmacistIDVM.cs",
+              "RelativeToolTip": "GraduationProjectAPI\\BL\\VM\\PrescriptionWithPharmacistIDVM.cs",
+              "ViewState": "AQIAAAUAAAAAAAAAAAA7wBAAAAA3AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-04T05:15:07.073Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "Patient.cs",
+              "DocumentMoniker": "C:\\Users\\Orginal\\Downloads\\PharmaProAPI-main-1\\PharmaProAPI-main-1\\PharmaProAPI-main\\GraduationProjectAPI\\GraduationProjectAPI\\DAL\\Models\\Patient.cs",
+              "RelativeDocumentMoniker": "GraduationProjectAPI\\DAL\\Models\\Patient.cs",
+              "ToolTip": "C:\\Users\\Orginal\\Downloads\\PharmaProAPI-main-1\\PharmaProAPI-main-1\\PharmaProAPI-main\\GraduationProjectAPI\\GraduationProjectAPI\\DAL\\Models\\Patient.cs",
+              "RelativeToolTip": "GraduationProjectAPI\\DAL\\Models\\Patient.cs",
+              "ViewState": "AQIAABMAAAAAAAAAAAAuwBwAAAAqAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-30T11:20:44.255Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
+              "Title": "OrderHistory.cs",
+              "DocumentMoniker": "C:\\Users\\Orginal\\Downloads\\PharmaProAPI-main-1\\PharmaProAPI-main-1\\PharmaProAPI-main\\GraduationProjectAPI\\GraduationProjectAPI\\DAL\\Models\\OrderHistory.cs",
+              "RelativeDocumentMoniker": "GraduationProjectAPI\\DAL\\Models\\OrderHistory.cs",
+              "ToolTip": "C:\\Users\\Orginal\\Downloads\\PharmaProAPI-main-1\\PharmaProAPI-main-1\\PharmaProAPI-main\\GraduationProjectAPI\\GraduationProjectAPI\\DAL\\Models\\OrderHistory.cs",
+              "RelativeToolTip": "GraduationProjectAPI\\DAL\\Models\\OrderHistory.cs",
+              "ViewState": "AQIAAAcAAAAAAAAAAAAmwAkAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-30T11:33:21.778Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 24,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\Orginal\\Downloads\\PharmaProAPI-main-1\\PharmaProAPI-main-1\\PharmaProAPI-main\\GraduationProjectAPI\\GraduationProjectAPI\\appsettings.json",
+              "RelativeDocumentMoniker": "GraduationProjectAPI\\appsettings.json",
+              "ToolTip": "C:\\Users\\Orginal\\Downloads\\PharmaProAPI-main-1\\PharmaProAPI-main-1\\PharmaProAPI-main\\GraduationProjectAPI\\GraduationProjectAPI\\appsettings.json",
+              "RelativeToolTip": "GraduationProjectAPI\\appsettings.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAACAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-04-30T11:52:40.661Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 25,
+              "Title": "DoctorRegisterVM.cs",
+              "DocumentMoniker": "C:\\Users\\Orginal\\Downloads\\PharmaProAPI-main-1\\PharmaProAPI-main-1\\PharmaProAPI-main\\GraduationProjectAPI\\GraduationProjectAPI\\BL\\VM\\DoctorRegisterVM.cs",
+              "RelativeDocumentMoniker": "GraduationProjectAPI\\BL\\VM\\DoctorRegisterVM.cs",
+              "ToolTip": "C:\\Users\\Orginal\\Downloads\\PharmaProAPI-main-1\\PharmaProAPI-main-1\\PharmaProAPI-main\\GraduationProjectAPI\\GraduationProjectAPI\\BL\\VM\\DoctorRegisterVM.cs",
+              "RelativeToolTip": "GraduationProjectAPI\\BL\\VM\\DoctorRegisterVM.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-05T13:18:51.634Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 29,
+              "Title": "MyProfile.cs",
+              "DocumentMoniker": "C:\\Users\\Orginal\\Downloads\\PharmaProAPI-main-1\\PharmaProAPI-main-1\\PharmaProAPI-main\\GraduationProjectAPI\\GraduationProjectAPI\\BL\\AutoMapper\\MyProfile.cs",
+              "RelativeDocumentMoniker": "GraduationProjectAPI\\BL\\AutoMapper\\MyProfile.cs",
+              "ToolTip": "C:\\Users\\Orginal\\Downloads\\PharmaProAPI-main-1\\PharmaProAPI-main-1\\PharmaProAPI-main\\GraduationProjectAPI\\GraduationProjectAPI\\BL\\AutoMapper\\MyProfile.cs",
+              "RelativeToolTip": "GraduationProjectAPI\\BL\\AutoMapper\\MyProfile.cs",
+              "ViewState": "AQIAAAgAAAAAAAAAAAAEwBIAAAAyAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-30T12:39:58.976Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 26,
+              "Title": "PharmacistController.cs",
+              "DocumentMoniker": "C:\\Users\\Orginal\\Downloads\\PharmaProAPI-main-1\\PharmaProAPI-main-1\\PharmaProAPI-main\\GraduationProjectAPI\\GraduationProjectAPI\\Controllers\\PharmacistController.cs",
+              "RelativeDocumentMoniker": "GraduationProjectAPI\\Controllers\\PharmacistController.cs",
+              "ToolTip": "C:\\Users\\Orginal\\Downloads\\PharmaProAPI-main-1\\PharmaProAPI-main-1\\PharmaProAPI-main\\GraduationProjectAPI\\GraduationProjectAPI\\Controllers\\PharmacistController.cs",
+              "RelativeToolTip": "GraduationProjectAPI\\Controllers\\PharmacistController.cs",
+              "ViewState": "AQIAAG8AAAAAAAAAAAAowBAAAAAxAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-04T07:08:20.973Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 27,
+              "Title": "IMedicineOfPrescription.cs",
+              "DocumentMoniker": "C:\\Users\\Orginal\\Downloads\\PharmaProAPI-main-1\\PharmaProAPI-main-1\\PharmaProAPI-main\\GraduationProjectAPI\\GraduationProjectAPI\\BL\\Interfaces\\IMedicineOfPrescription.cs",
+              "RelativeDocumentMoniker": "GraduationProjectAPI\\BL\\Interfaces\\IMedicineOfPrescription.cs",
+              "ToolTip": "C:\\Users\\Orginal\\Downloads\\PharmaProAPI-main-1\\PharmaProAPI-main-1\\PharmaProAPI-main\\GraduationProjectAPI\\GraduationProjectAPI\\BL\\Interfaces\\IMedicineOfPrescription.cs",
+              "RelativeToolTip": "GraduationProjectAPI\\BL\\Interfaces\\IMedicineOfPrescription.cs",
+              "ViewState": "AQIAAAQAAAAAAAAAAAA+wA0AAAAHAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-01T22:30:28.34Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 28,
+              "Title": "MedicineOfPrescriptionRepo.cs",
+              "DocumentMoniker": "C:\\Users\\Orginal\\Downloads\\PharmaProAPI-main-1\\PharmaProAPI-main-1\\PharmaProAPI-main\\GraduationProjectAPI\\GraduationProjectAPI\\BL\\Repos\\MedicineOfPrescriptionRepo.cs",
+              "RelativeDocumentMoniker": "GraduationProjectAPI\\BL\\Repos\\MedicineOfPrescriptionRepo.cs",
+              "ToolTip": "C:\\Users\\Orginal\\Downloads\\PharmaProAPI-main-1\\PharmaProAPI-main-1\\PharmaProAPI-main\\GraduationProjectAPI\\GraduationProjectAPI\\BL\\Repos\\MedicineOfPrescriptionRepo.cs",
+              "RelativeToolTip": "GraduationProjectAPI\\BL\\Repos\\MedicineOfPrescriptionRepo.cs",
+              "ViewState": "AQIAAGAAAAAAAAAAAIBQwGkAAAAPAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-01T22:33:30.658Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 30,
+              "Title": "IPrescription.cs",
+              "DocumentMoniker": "C:\\Users\\Orginal\\Downloads\\PharmaProAPI-main-1\\PharmaProAPI-main-1\\PharmaProAPI-main\\GraduationProjectAPI\\GraduationProjectAPI\\BL\\Interfaces\\IPrescription.cs",
+              "RelativeDocumentMoniker": "GraduationProjectAPI\\BL\\Interfaces\\IPrescription.cs",
+              "ToolTip": "C:\\Users\\Orginal\\Downloads\\PharmaProAPI-main-1\\PharmaProAPI-main-1\\PharmaProAPI-main\\GraduationProjectAPI\\GraduationProjectAPI\\BL\\Interfaces\\IPrescription.cs",
+              "RelativeToolTip": "GraduationProjectAPI\\BL\\Interfaces\\IPrescription.cs",
+              "ViewState": "AQIAAAEAAAAAAAAAAAAAwAoAAAAvAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-01T13:33:07.828Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 31,
+              "Title": "Pharmacist.cs",
+              "DocumentMoniker": "C:\\Users\\Orginal\\Downloads\\PharmaProAPI-main-1\\PharmaProAPI-main-1\\PharmaProAPI-main\\GraduationProjectAPI\\GraduationProjectAPI\\DAL\\Models\\Pharmacist.cs",
+              "RelativeDocumentMoniker": "GraduationProjectAPI\\DAL\\Models\\Pharmacist.cs",
+              "ToolTip": "C:\\Users\\Orginal\\Downloads\\PharmaProAPI-main-1\\PharmaProAPI-main-1\\PharmaProAPI-main\\GraduationProjectAPI\\GraduationProjectAPI\\DAL\\Models\\Pharmacist.cs",
+              "RelativeToolTip": "GraduationProjectAPI\\DAL\\Models\\Pharmacist.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAIBJwAYAAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-30T11:22:56.83Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 32,
+              "Title": "IPharmacist.cs",
+              "DocumentMoniker": "C:\\Users\\Orginal\\Downloads\\PharmaProAPI-main-1\\PharmaProAPI-main-1\\PharmaProAPI-main\\GraduationProjectAPI\\GraduationProjectAPI\\BL\\Interfaces\\IPharmacist.cs",
+              "RelativeDocumentMoniker": "GraduationProjectAPI\\BL\\Interfaces\\IPharmacist.cs",
+              "ToolTip": "C:\\Users\\Orginal\\Downloads\\PharmaProAPI-main-1\\PharmaProAPI-main-1\\PharmaProAPI-main\\GraduationProjectAPI\\GraduationProjectAPI\\BL\\Interfaces\\IPharmacist.cs",
+              "RelativeToolTip": "GraduationProjectAPI\\BL\\Interfaces\\IPharmacist.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAAAbAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-04T07:05:13.346Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 33,
+              "Title": "DoctorController.cs",
+              "DocumentMoniker": "C:\\Users\\Orginal\\Downloads\\PharmaProAPI-main-1\\PharmaProAPI-main-1\\PharmaProAPI-main\\GraduationProjectAPI\\GraduationProjectAPI\\Controllers\\DoctorController.cs",
+              "RelativeDocumentMoniker": "GraduationProjectAPI\\Controllers\\DoctorController.cs",
+              "ToolTip": "C:\\Users\\Orginal\\Downloads\\PharmaProAPI-main-1\\PharmaProAPI-main-1\\PharmaProAPI-main\\GraduationProjectAPI\\GraduationProjectAPI\\Controllers\\DoctorController.cs",
+              "RelativeToolTip": "GraduationProjectAPI\\Controllers\\DoctorController.cs",
+              "ViewState": "AQIAABYAAAAAAAAAAAAQwH0AAABmAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-30T16:24:01.488Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 34,
+              "Title": "ResetPasswordVM.cs",
+              "DocumentMoniker": "C:\\Users\\Orginal\\Downloads\\PharmaProAPI-main-1\\PharmaProAPI-main-1\\PharmaProAPI-main\\GraduationProjectAPI\\GraduationProjectAPI\\BL\\VM\\ResetPasswordVM.cs",
+              "RelativeDocumentMoniker": "GraduationProjectAPI\\BL\\VM\\ResetPasswordVM.cs",
+              "ToolTip": "C:\\Users\\Orginal\\Downloads\\PharmaProAPI-main-1\\PharmaProAPI-main-1\\PharmaProAPI-main\\GraduationProjectAPI\\GraduationProjectAPI\\BL\\VM\\ResetPasswordVM.cs",
+              "RelativeToolTip": "GraduationProjectAPI\\BL\\VM\\ResetPasswordVM.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAAnAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-01T02:20:12.099Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 35,
+              "Title": "PatientVM.cs",
+              "DocumentMoniker": "C:\\Users\\Orginal\\Downloads\\PharmaProAPI-main-1\\PharmaProAPI-main-1\\PharmaProAPI-main\\GraduationProjectAPI\\GraduationProjectAPI\\BL\\VM\\PatientVM.cs",
+              "RelativeDocumentMoniker": "GraduationProjectAPI\\BL\\VM\\PatientVM.cs",
+              "ToolTip": "C:\\Users\\Orginal\\Downloads\\PharmaProAPI-main-1\\PharmaProAPI-main-1\\PharmaProAPI-main\\GraduationProjectAPI\\GraduationProjectAPI\\BL\\VM\\PatientVM.cs",
+              "RelativeToolTip": "GraduationProjectAPI\\BL\\VM\\PatientVM.cs",
+              "ViewState": "AQIAAAcAAAAAAAAAAAA+wCAAAAAWAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-30T12:23:12.54Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 36,
+              "Title": "PharmacistVM.cs",
+              "DocumentMoniker": "C:\\Users\\Orginal\\Downloads\\PharmaProAPI-main-1\\PharmaProAPI-main-1\\PharmaProAPI-main\\GraduationProjectAPI\\GraduationProjectAPI\\BL\\VM\\PharmacistVM.cs",
+              "RelativeDocumentMoniker": "GraduationProjectAPI\\BL\\VM\\PharmacistVM.cs",
+              "ToolTip": "C:\\Users\\Orginal\\Downloads\\PharmaProAPI-main-1\\PharmaProAPI-main-1\\PharmaProAPI-main\\GraduationProjectAPI\\GraduationProjectAPI\\BL\\VM\\PharmacistVM.cs",
+              "RelativeToolTip": "GraduationProjectAPI\\BL\\VM\\PharmacistVM.cs",
+              "ViewState": "AQIAAAEAAAAAAAAAAIBJwBIAAAApAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-30T12:33:37.478Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 38,
+              "Title": "IPatient.cs",
+              "DocumentMoniker": "C:\\Users\\Orginal\\Downloads\\PharmaProAPI-main-1\\PharmaProAPI-main-1\\PharmaProAPI-main\\GraduationProjectAPI\\GraduationProjectAPI\\BL\\Interfaces\\IPatient.cs",
+              "RelativeDocumentMoniker": "GraduationProjectAPI\\BL\\Interfaces\\IPatient.cs",
+              "ToolTip": "C:\\Users\\Orginal\\Downloads\\PharmaProAPI-main-1\\PharmaProAPI-main-1\\PharmaProAPI-main\\GraduationProjectAPI\\GraduationProjectAPI\\BL\\Interfaces\\IPatient.cs",
+              "RelativeToolTip": "GraduationProjectAPI\\BL\\Interfaces\\IPatient.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAAXAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-30T12:58:43.473Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 37,
+              "Title": "IMedicine.cs",
+              "DocumentMoniker": "C:\\Users\\Orginal\\Downloads\\PharmaProAPI-main-1\\PharmaProAPI-main-1\\PharmaProAPI-main\\GraduationProjectAPI\\GraduationProjectAPI\\BL\\Interfaces\\IMedicine.cs",
+              "RelativeDocumentMoniker": "GraduationProjectAPI\\BL\\Interfaces\\IMedicine.cs",
+              "ToolTip": "C:\\Users\\Orginal\\Downloads\\PharmaProAPI-main-1\\PharmaProAPI-main-1\\PharmaProAPI-main\\GraduationProjectAPI\\GraduationProjectAPI\\BL\\Interfaces\\IMedicine.cs",
+              "RelativeToolTip": "GraduationProjectAPI\\BL\\Interfaces\\IMedicine.cs",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAiwAgAAAAVAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-01T12:58:33.128Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 41,
+              "Title": "GraduationProjectAPI.csproj",
+              "DocumentMoniker": "C:\\Users\\Orginal\\Downloads\\PharmaProAPI-main-1\\PharmaProAPI-main-1\\PharmaProAPI-main\\GraduationProjectAPI\\GraduationProjectAPI\\GraduationProjectAPI.csproj",
+              "RelativeDocumentMoniker": "GraduationProjectAPI\\GraduationProjectAPI.csproj",
+              "ToolTip": "C:\\Users\\Orginal\\Downloads\\PharmaProAPI-main-1\\PharmaProAPI-main-1\\PharmaProAPI-main\\GraduationProjectAPI\\GraduationProjectAPI\\GraduationProjectAPI.csproj",
+              "RelativeToolTip": "GraduationProjectAPI\\GraduationProjectAPI.csproj",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA8AAAA6AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-04-30T11:08:08.742Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 39,
+              "Title": "MailSender.cs",
+              "DocumentMoniker": "C:\\Users\\Orginal\\Downloads\\PharmaProAPI-main-1\\PharmaProAPI-main-1\\PharmaProAPI-main\\GraduationProjectAPI\\GraduationProjectAPI\\BL\\Services\\MailSender.cs",
+              "RelativeDocumentMoniker": "GraduationProjectAPI\\BL\\Services\\MailSender.cs",
+              "ToolTip": "C:\\Users\\Orginal\\Downloads\\PharmaProAPI-main-1\\PharmaProAPI-main-1\\PharmaProAPI-main\\GraduationProjectAPI\\GraduationProjectAPI\\BL\\Services\\MailSender.cs",
+              "RelativeToolTip": "GraduationProjectAPI\\BL\\Services\\MailSender.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAB0AAABEAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-30T13:03:32.359Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 40,
+              "Title": "Generator.cs",
+              "DocumentMoniker": "C:\\Users\\Orginal\\Downloads\\PharmaProAPI-main-1\\PharmaProAPI-main-1\\PharmaProAPI-main\\GraduationProjectAPI\\GraduationProjectAPI\\BL\\Services\\Generator.cs",
+              "RelativeDocumentMoniker": "GraduationProjectAPI\\BL\\Services\\Generator.cs",
+              "ToolTip": "C:\\Users\\Orginal\\Downloads\\PharmaProAPI-main-1\\PharmaProAPI-main-1\\PharmaProAPI-main\\GraduationProjectAPI\\GraduationProjectAPI\\BL\\Services\\Generator.cs",
+              "RelativeToolTip": "GraduationProjectAPI\\BL\\Services\\Generator.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAQAAAAWAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-01T03:33:32.344Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 42,
+              "Title": "ForgetPasswordVM.cs",
+              "DocumentMoniker": "C:\\Users\\Orginal\\Downloads\\PharmaProAPI-main-1\\PharmaProAPI-main-1\\PharmaProAPI-main\\GraduationProjectAPI\\GraduationProjectAPI\\BL\\VM\\ForgetPasswordVM.cs",
+              "RelativeDocumentMoniker": "GraduationProjectAPI\\BL\\VM\\ForgetPasswordVM.cs",
+              "ToolTip": "C:\\Users\\Orginal\\Downloads\\PharmaProAPI-main-1\\PharmaProAPI-main-1\\PharmaProAPI-main\\GraduationProjectAPI\\GraduationProjectAPI\\BL\\VM\\ForgetPasswordVM.cs",
+              "RelativeToolTip": "GraduationProjectAPI\\BL\\VM\\ForgetPasswordVM.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAAuAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-01T01:59:10.236Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 45,
+              "Title": "GraduationProjectAPI.http",
+              "DocumentMoniker": "C:\\Users\\Orginal\\Downloads\\PharmaProAPI-main-1\\PharmaProAPI-main-1\\PharmaProAPI-main\\GraduationProjectAPI\\GraduationProjectAPI\\GraduationProjectAPI.http",
+              "RelativeDocumentMoniker": "GraduationProjectAPI\\GraduationProjectAPI.http",
+              "ToolTip": "C:\\Users\\Orginal\\Downloads\\PharmaProAPI-main-1\\PharmaProAPI-main-1\\PharmaProAPI-main\\GraduationProjectAPI\\GraduationProjectAPI\\GraduationProjectAPI.http",
+              "RelativeToolTip": "GraduationProjectAPI\\GraduationProjectAPI.http",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003502|",
+              "WhenOpened": "2024-04-30T12:01:02.348Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 43,
+              "Title": "DataContext.cs",
+              "DocumentMoniker": "C:\\Users\\Orginal\\Downloads\\PharmaProAPI-main-1\\PharmaProAPI-main-1\\PharmaProAPI-main\\GraduationProjectAPI\\GraduationProjectAPI\\DAL\\Database\\DataContext.cs",
+              "RelativeDocumentMoniker": "GraduationProjectAPI\\DAL\\Database\\DataContext.cs",
+              "ToolTip": "C:\\Users\\Orginal\\Downloads\\PharmaProAPI-main-1\\PharmaProAPI-main-1\\PharmaProAPI-main\\GraduationProjectAPI\\GraduationProjectAPI\\DAL\\Database\\DataContext.cs",
+              "RelativeToolTip": "GraduationProjectAPI\\DAL\\Database\\DataContext.cs",
+              "ViewState": "AQIAAA8AAAAAAAAAAAAYwCEAAAAXAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-30T11:07:56.041Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 44,
+              "Title": "20240505132251_build-db.cs",
+              "DocumentMoniker": "C:\\Users\\Orginal\\Downloads\\PharmaProAPI-main-1\\PharmaProAPI-main-1\\PharmaProAPI-main\\GraduationProjectAPI\\GraduationProjectAPI\\Migrations\\20240505132251_build-db.cs",
+              "RelativeDocumentMoniker": "GraduationProjectAPI\\Migrations\\20240505132251_build-db.cs",
+              "ToolTip": "C:\\Users\\Orginal\\Downloads\\PharmaProAPI-main-1\\PharmaProAPI-main-1\\PharmaProAPI-main\\GraduationProjectAPI\\GraduationProjectAPI\\Migrations\\20240505132251_build-db.cs",
+              "RelativeToolTip": "GraduationProjectAPI\\Migrations\\20240505132251_build-db.cs",
+              "ViewState": "AQIAABAAAAAAAAAAAAAQwB4AAAAkAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-05T13:22:51.282Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 46,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Orginal\\Downloads\\PharmaProAPI-main-1\\PharmaProAPI-main-1\\PharmaProAPI-main\\GraduationProjectAPI\\GraduationProjectAPI\\Program.cs",
+              "RelativeDocumentMoniker": "GraduationProjectAPI\\Program.cs",
+              "ToolTip": "C:\\Users\\Orginal\\Downloads\\PharmaProAPI-main-1\\PharmaProAPI-main-1\\PharmaProAPI-main\\GraduationProjectAPI\\GraduationProjectAPI\\Program.cs",
+              "RelativeToolTip": "GraduationProjectAPI\\Program.cs",
+              "ViewState": "AQIAAA0AAAAAAAAAAIBJwB4AAABVAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-30T11:54:01.323Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 47,
+              "Title": "ShelfStatusController.cs",
+              "DocumentMoniker": "C:\\Users\\Orginal\\Downloads\\PharmaProAPI-main-1\\PharmaProAPI-main-1\\PharmaProAPI-main\\GraduationProjectAPI\\GraduationProjectAPI\\Controllers\\ShelfStatusController.cs",
+              "RelativeDocumentMoniker": "GraduationProjectAPI\\Controllers\\ShelfStatusController.cs",
+              "ToolTip": "C:\\Users\\Orginal\\Downloads\\PharmaProAPI-main-1\\PharmaProAPI-main-1\\PharmaProAPI-main\\GraduationProjectAPI\\GraduationProjectAPI\\Controllers\\ShelfStatusController.cs",
+              "RelativeToolTip": "GraduationProjectAPI\\Controllers\\ShelfStatusController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAQAAAAgAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-04T22:29:16.637Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 48,
+              "Title": "MedicineRepo.cs",
+              "DocumentMoniker": "C:\\Users\\Orginal\\Downloads\\PharmaProAPI-main-1\\PharmaProAPI-main-1\\PharmaProAPI-main\\GraduationProjectAPI\\GraduationProjectAPI\\BL\\Repos\\MedicineRepo.cs",
+              "RelativeDocumentMoniker": "GraduationProjectAPI\\BL\\Repos\\MedicineRepo.cs",
+              "ToolTip": "C:\\Users\\Orginal\\Downloads\\PharmaProAPI-main-1\\PharmaProAPI-main-1\\PharmaProAPI-main\\GraduationProjectAPI\\GraduationProjectAPI\\BL\\Repos\\MedicineRepo.cs",
+              "RelativeToolTip": "GraduationProjectAPI\\BL\\Repos\\MedicineRepo.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAuwAgAAAApAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-01T13:03:13.299Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 49,
+              "Title": "ShelfNumberStatus.cs",
+              "DocumentMoniker": "C:\\Users\\Orginal\\Downloads\\PharmaProAPI-main-1\\PharmaProAPI-main-1\\PharmaProAPI-main\\GraduationProjectAPI\\GraduationProjectAPI\\DAL\\Models\\ShelfNumberStatus.cs",
+              "RelativeDocumentMoniker": "GraduationProjectAPI\\DAL\\Models\\ShelfNumberStatus.cs",
+              "ToolTip": "C:\\Users\\Orginal\\Downloads\\PharmaProAPI-main-1\\PharmaProAPI-main-1\\PharmaProAPI-main\\GraduationProjectAPI\\GraduationProjectAPI\\DAL\\Models\\ShelfNumberStatus.cs",
+              "RelativeToolTip": "GraduationProjectAPI\\DAL\\Models\\ShelfNumberStatus.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAA7AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-04T22:20:21.504Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 50,
+              "Title": "UserRoleVM.cs",
+              "DocumentMoniker": "C:\\Users\\Orginal\\Downloads\\PharmaProAPI-main-1\\PharmaProAPI-main-1\\PharmaProAPI-main\\GraduationProjectAPI\\GraduationProjectAPI\\BL\\VM\\UserRoleVM.cs",
+              "RelativeDocumentMoniker": "GraduationProjectAPI\\BL\\VM\\UserRoleVM.cs",
+              "ToolTip": "C:\\Users\\Orginal\\Downloads\\PharmaProAPI-main-1\\PharmaProAPI-main-1\\PharmaProAPI-main\\GraduationProjectAPI\\GraduationProjectAPI\\BL\\VM\\UserRoleVM.cs",
+              "RelativeToolTip": "GraduationProjectAPI\\BL\\VM\\UserRoleVM.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAQAAAAbAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-03T13:17:43.095Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 51,
+              "Title": "RegisterVM.cs",
+              "DocumentMoniker": "C:\\Users\\Orginal\\Downloads\\PharmaProAPI-main-1\\PharmaProAPI-main-1\\PharmaProAPI-main\\GraduationProjectAPI\\GraduationProjectAPI\\BL\\VM\\RegisterVM.cs",
+              "RelativeDocumentMoniker": "GraduationProjectAPI\\BL\\VM\\RegisterVM.cs",
+              "ToolTip": "C:\\Users\\Orginal\\Downloads\\PharmaProAPI-main-1\\PharmaProAPI-main-1\\PharmaProAPI-main\\GraduationProjectAPI\\GraduationProjectAPI\\BL\\VM\\RegisterVM.cs",
+              "RelativeToolTip": "GraduationProjectAPI\\BL\\VM\\RegisterVM.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAAApAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-30T16:58:42.417Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 52,
+              "Title": "MedicineVM.cs",
+              "DocumentMoniker": "C:\\Users\\Orginal\\Downloads\\PharmaProAPI-main-1\\PharmaProAPI-main-1\\PharmaProAPI-main\\GraduationProjectAPI\\GraduationProjectAPI\\BL\\VM\\MedicineVM.cs",
+              "RelativeDocumentMoniker": "GraduationProjectAPI\\BL\\VM\\MedicineVM.cs",
+              "ToolTip": "C:\\Users\\Orginal\\Downloads\\PharmaProAPI-main-1\\PharmaProAPI-main-1\\PharmaProAPI-main\\GraduationProjectAPI\\GraduationProjectAPI\\BL\\VM\\MedicineVM.cs",
+              "RelativeToolTip": "GraduationProjectAPI\\BL\\VM\\MedicineVM.cs",
+              "ViewState": "AQIAABkAAAAAAAAAAAAuwCYAAABGAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-30T12:19:06.852Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 53,
+              "Title": "LoginVM.cs",
+              "DocumentMoniker": "C:\\Users\\Orginal\\Downloads\\PharmaProAPI-main-1\\PharmaProAPI-main-1\\PharmaProAPI-main\\GraduationProjectAPI\\GraduationProjectAPI\\BL\\VM\\LoginVM.cs",
+              "RelativeDocumentMoniker": "GraduationProjectAPI\\BL\\VM\\LoginVM.cs",
+              "ToolTip": "C:\\Users\\Orginal\\Downloads\\PharmaProAPI-main-1\\PharmaProAPI-main-1\\PharmaProAPI-main\\GraduationProjectAPI\\GraduationProjectAPI\\BL\\VM\\LoginVM.cs",
+              "RelativeToolTip": "GraduationProjectAPI\\BL\\VM\\LoginVM.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAuwAkAAAAiAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-30T16:25:15.959Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 54,
+              "Title": "DoctorVM.cs",
+              "DocumentMoniker": "C:\\Users\\Orginal\\Downloads\\PharmaProAPI-main-1\\PharmaProAPI-main-1\\PharmaProAPI-main\\GraduationProjectAPI\\GraduationProjectAPI\\BL\\VM\\DoctorVM.cs",
+              "RelativeDocumentMoniker": "GraduationProjectAPI\\BL\\VM\\DoctorVM.cs",
+              "ToolTip": "C:\\Users\\Orginal\\Downloads\\PharmaProAPI-main-1\\PharmaProAPI-main-1\\PharmaProAPI-main\\GraduationProjectAPI\\GraduationProjectAPI\\BL\\VM\\DoctorVM.cs",
+              "RelativeToolTip": "GraduationProjectAPI\\BL\\VM\\DoctorVM.cs",
+              "ViewState": "AQIAAAEAAAAAAAAAAIBJwBIAAAAqAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-30T12:17:30.587Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 55,
+              "Title": "20240505120812_build-db.cs",
+              "DocumentMoniker": "C:\\Users\\EL-masreya\\Desktop\\GraduationProjectAPI\\GraduationProjectAPI\\Migrations\\20240505120812_build-db.cs",
+              "RelativeDocumentMoniker": "..\\..\\..\\..\\..\\..\\EL-masreya\\Desktop\\GraduationProjectAPI\\GraduationProjectAPI\\Migrations\\20240505120812_build-db.cs",
+              "ToolTip": "C:\\Users\\EL-masreya\\Desktop\\GraduationProjectAPI\\GraduationProjectAPI\\Migrations\\20240505120812_build-db.cs",
+              "RelativeToolTip": "..\\..\\..\\..\\..\\..\\EL-masreya\\Desktop\\GraduationProjectAPI\\GraduationProjectAPI\\Migrations\\20240505120812_build-db.cs",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-05T12:08:13.015Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 56,
+              "Title": "20240504201155_build-db.cs",
+              "DocumentMoniker": "C:\\Users\\EL-masreya\\Desktop\\GraduationProjectAPI\\GraduationProjectAPI\\Migrations\\20240504201155_build-db.cs",
+              "RelativeDocumentMoniker": "..\\..\\..\\..\\..\\..\\EL-masreya\\Desktop\\GraduationProjectAPI\\GraduationProjectAPI\\Migrations\\20240504201155_build-db.cs",
+              "ToolTip": "C:\\Users\\EL-masreya\\Desktop\\GraduationProjectAPI\\GraduationProjectAPI\\Migrations\\20240504201155_build-db.cs",
+              "RelativeToolTip": "..\\..\\..\\..\\..\\..\\EL-masreya\\Desktop\\GraduationProjectAPI\\GraduationProjectAPI\\Migrations\\20240504201155_build-db.cs",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-04T20:11:56.023Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 57,
+              "Title": "PatientRepo.cs",
+              "DocumentMoniker": "C:\\Users\\Orginal\\Downloads\\PharmaProAPI-main-1\\PharmaProAPI-main-1\\PharmaProAPI-main\\GraduationProjectAPI\\GraduationProjectAPI\\BL\\Repos\\PatientRepo.cs",
+              "RelativeDocumentMoniker": "GraduationProjectAPI\\BL\\Repos\\PatientRepo.cs",
+              "ToolTip": "C:\\Users\\Orginal\\Downloads\\PharmaProAPI-main-1\\PharmaProAPI-main-1\\PharmaProAPI-main\\GraduationProjectAPI\\GraduationProjectAPI\\BL\\Repos\\PatientRepo.cs",
+              "RelativeToolTip": "GraduationProjectAPI\\BL\\Repos\\PatientRepo.cs",
+              "ViewState": "AQIAAGwAAAAAAAAAAIBJwHkAAAAfAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-30T13:00:21.623Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 58,
+              "Title": "20240504174519_build-db.cs",
+              "DocumentMoniker": "C:\\Users\\EL-masreya\\Desktop\\GraduationProjectAPI\\GraduationProjectAPI\\Migrations\\20240504174519_build-db.cs",
+              "RelativeDocumentMoniker": "..\\..\\..\\..\\..\\..\\EL-masreya\\Desktop\\GraduationProjectAPI\\GraduationProjectAPI\\Migrations\\20240504174519_build-db.cs",
+              "ToolTip": "C:\\Users\\EL-masreya\\Desktop\\GraduationProjectAPI\\GraduationProjectAPI\\Migrations\\20240504174519_build-db.cs",
+              "RelativeToolTip": "..\\..\\..\\..\\..\\..\\EL-masreya\\Desktop\\GraduationProjectAPI\\GraduationProjectAPI\\Migrations\\20240504174519_build-db.cs",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-04T17:45:20.125Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 59,
+              "Title": "20240504081132_build-db.cs",
+              "DocumentMoniker": "C:\\Users\\EL-masreya\\Desktop\\GraduationProjectAPI\\GraduationProjectAPI\\Migrations\\20240504081132_build-db.cs",
+              "RelativeDocumentMoniker": "..\\..\\..\\..\\..\\..\\EL-masreya\\Desktop\\GraduationProjectAPI\\GraduationProjectAPI\\Migrations\\20240504081132_build-db.cs",
+              "ToolTip": "C:\\Users\\EL-masreya\\Desktop\\GraduationProjectAPI\\GraduationProjectAPI\\Migrations\\20240504081132_build-db.cs",
+              "RelativeToolTip": "..\\..\\..\\..\\..\\..\\EL-masreya\\Desktop\\GraduationProjectAPI\\GraduationProjectAPI\\Migrations\\20240504081132_build-db.cs",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-04T08:11:32.629Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 60,
+              "Title": "20240504072308_build-db.cs",
+              "DocumentMoniker": "C:\\Users\\EL-masreya\\Desktop\\GraduationProjectAPI\\GraduationProjectAPI\\Migrations\\20240504072308_build-db.cs",
+              "RelativeDocumentMoniker": "..\\..\\..\\..\\..\\..\\EL-masreya\\Desktop\\GraduationProjectAPI\\GraduationProjectAPI\\Migrations\\20240504072308_build-db.cs",
+              "ToolTip": "C:\\Users\\EL-masreya\\Desktop\\GraduationProjectAPI\\GraduationProjectAPI\\Migrations\\20240504072308_build-db.cs",
+              "RelativeToolTip": "..\\..\\..\\..\\..\\..\\EL-masreya\\Desktop\\GraduationProjectAPI\\GraduationProjectAPI\\Migrations\\20240504072308_build-db.cs",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-04T07:23:08.992Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 61,
+              "Title": "PharmacistRepo.cs",
+              "DocumentMoniker": "C:\\Users\\Orginal\\Downloads\\PharmaProAPI-main-1\\PharmaProAPI-main-1\\PharmaProAPI-main\\GraduationProjectAPI\\GraduationProjectAPI\\BL\\Repos\\PharmacistRepo.cs",
+              "RelativeDocumentMoniker": "GraduationProjectAPI\\BL\\Repos\\PharmacistRepo.cs",
+              "ToolTip": "C:\\Users\\Orginal\\Downloads\\PharmaProAPI-main-1\\PharmaProAPI-main-1\\PharmaProAPI-main\\GraduationProjectAPI\\GraduationProjectAPI\\BL\\Repos\\PharmacistRepo.cs",
+              "RelativeToolTip": "GraduationProjectAPI\\BL\\Repos\\PharmacistRepo.cs",
+              "ViewState": "AQIAABUAAAAAAAAAAEBdwCAAAAAZAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-04T07:05:58.758Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 62,
+              "Title": "20240504050512_build-db.cs",
+              "DocumentMoniker": "F:\\GraduationProjectAPI\\GraduationProjectAPI\\Migrations\\20240504050512_build-db.cs",
+              "ToolTip": "F:\\GraduationProjectAPI\\GraduationProjectAPI\\Migrations\\20240504050512_build-db.cs",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-04T05:05:12.573Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 63,
+              "Title": "20240504050414_build-db.cs",
+              "DocumentMoniker": "F:\\GraduationProjectAPI\\GraduationProjectAPI\\Migrations\\20240504050414_build-db.cs",
+              "ToolTip": "F:\\GraduationProjectAPI\\GraduationProjectAPI\\Migrations\\20240504050414_build-db.cs",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-04T05:04:14.61Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 64,
+              "Title": "Microsoft.Common.CurrentVersion.targets",
+              "DocumentMoniker": "C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\MSBuild\\Current\\Bin\\amd64\\Microsoft.Common.CurrentVersion.targets",
+              "RelativeDocumentMoniker": "..\\..\\..\\..\\..\\..\\..\\Program Files\\Microsoft Visual Studio\\2022\\Community\\MSBuild\\Current\\Bin\\amd64\\Microsoft.Common.CurrentVersion.targets",
+              "ToolTip": "C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\MSBuild\\Current\\Bin\\amd64\\Microsoft.Common.CurrentVersion.targets",
+              "RelativeToolTip": "..\\..\\..\\..\\..\\..\\..\\Program Files\\Microsoft Visual Studio\\2022\\Community\\MSBuild\\Current\\Bin\\amd64\\Microsoft.Common.CurrentVersion.targets",
+              "ViewState": "AQIAAHkUAAAAAAAAAAAYwIUUAAAEAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003801|",
+              "WhenOpened": "2024-05-03T00:13:27.02Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 67,
+              "Title": "20240501161822_build-db.cs",
+              "DocumentMoniker": "C:\\Users\\EL-masreya\\source\\repos\\GraduationProjectAPI\\GraduationProjectAPI\\Migrations\\20240501161822_build-db.cs",
+              "RelativeDocumentMoniker": "..\\..\\..\\..\\..\\..\\EL-masreya\\source\\repos\\GraduationProjectAPI\\GraduationProjectAPI\\Migrations\\20240501161822_build-db.cs",
+              "ToolTip": "C:\\Users\\EL-masreya\\source\\repos\\GraduationProjectAPI\\GraduationProjectAPI\\Migrations\\20240501161822_build-db.cs",
+              "RelativeToolTip": "..\\..\\..\\..\\..\\..\\EL-masreya\\source\\repos\\GraduationProjectAPI\\GraduationProjectAPI\\Migrations\\20240501161822_build-db.cs",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-01T16:18:22.146Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 65,
+              "Title": "20240501162345_build-db.cs",
+              "DocumentMoniker": "C:\\Users\\EL-masreya\\source\\repos\\GraduationProjectAPI\\GraduationProjectAPI\\Migrations\\20240501162345_build-db.cs",
+              "RelativeDocumentMoniker": "..\\..\\..\\..\\..\\..\\EL-masreya\\source\\repos\\GraduationProjectAPI\\GraduationProjectAPI\\Migrations\\20240501162345_build-db.cs",
+              "ToolTip": "C:\\Users\\EL-masreya\\source\\repos\\GraduationProjectAPI\\GraduationProjectAPI\\Migrations\\20240501162345_build-db.cs",
+              "RelativeToolTip": "..\\..\\..\\..\\..\\..\\EL-masreya\\source\\repos\\GraduationProjectAPI\\GraduationProjectAPI\\Migrations\\20240501162345_build-db.cs",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-01T16:23:45.974Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 68,
+              "Title": "20240501163539_build-db.cs",
+              "DocumentMoniker": "C:\\Users\\EL-masreya\\source\\repos\\GraduationProjectAPI\\GraduationProjectAPI\\Migrations\\20240501163539_build-db.cs",
+              "RelativeDocumentMoniker": "..\\..\\..\\..\\..\\..\\EL-masreya\\source\\repos\\GraduationProjectAPI\\GraduationProjectAPI\\Migrations\\20240501163539_build-db.cs",
+              "ToolTip": "C:\\Users\\EL-masreya\\source\\repos\\GraduationProjectAPI\\GraduationProjectAPI\\Migrations\\20240501163539_build-db.cs",
+              "RelativeToolTip": "..\\..\\..\\..\\..\\..\\EL-masreya\\source\\repos\\GraduationProjectAPI\\GraduationProjectAPI\\Migrations\\20240501163539_build-db.cs",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-01T16:35:39.647Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 66,
+              "Title": "20240501160925_build-db.cs",
+              "DocumentMoniker": "C:\\Users\\EL-masreya\\source\\repos\\GraduationProjectAPI\\GraduationProjectAPI\\Migrations\\20240501160925_build-db.cs",
+              "RelativeDocumentMoniker": "..\\..\\..\\..\\..\\..\\EL-masreya\\source\\repos\\GraduationProjectAPI\\GraduationProjectAPI\\Migrations\\20240501160925_build-db.cs",
+              "ToolTip": "C:\\Users\\EL-masreya\\source\\repos\\GraduationProjectAPI\\GraduationProjectAPI\\Migrations\\20240501160925_build-db.cs",
+              "RelativeToolTip": "..\\..\\..\\..\\..\\..\\EL-masreya\\source\\repos\\GraduationProjectAPI\\GraduationProjectAPI\\Migrations\\20240501160925_build-db.cs",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-01T16:09:25.986Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 69,
+              "Title": "20240501161723_build-db.cs",
+              "DocumentMoniker": "C:\\Users\\EL-masreya\\source\\repos\\GraduationProjectAPI\\GraduationProjectAPI\\Migrations\\20240501161723_build-db.cs",
+              "RelativeDocumentMoniker": "..\\..\\..\\..\\..\\..\\EL-masreya\\source\\repos\\GraduationProjectAPI\\GraduationProjectAPI\\Migrations\\20240501161723_build-db.cs",
+              "ToolTip": "C:\\Users\\EL-masreya\\source\\repos\\GraduationProjectAPI\\GraduationProjectAPI\\Migrations\\20240501161723_build-db.cs",
+              "RelativeToolTip": "..\\..\\..\\..\\..\\..\\EL-masreya\\source\\repos\\GraduationProjectAPI\\GraduationProjectAPI\\Migrations\\20240501161723_build-db.cs",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-01T16:17:23.777Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 70,
+              "Title": "20240501161439_build-db.cs",
+              "DocumentMoniker": "C:\\Users\\EL-masreya\\source\\repos\\GraduationProjectAPI\\GraduationProjectAPI\\Migrations\\20240501161439_build-db.cs",
+              "RelativeDocumentMoniker": "..\\..\\..\\..\\..\\..\\EL-masreya\\source\\repos\\GraduationProjectAPI\\GraduationProjectAPI\\Migrations\\20240501161439_build-db.cs",
+              "ToolTip": "C:\\Users\\EL-masreya\\source\\repos\\GraduationProjectAPI\\GraduationProjectAPI\\Migrations\\20240501161439_build-db.cs",
+              "RelativeToolTip": "..\\..\\..\\..\\..\\..\\EL-masreya\\source\\repos\\GraduationProjectAPI\\GraduationProjectAPI\\Migrations\\20240501161439_build-db.cs",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-01T16:14:39.186Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 71,
+              "Title": "20240501160445_build-db.cs",
+              "DocumentMoniker": "C:\\Users\\EL-masreya\\source\\repos\\GraduationProjectAPI\\GraduationProjectAPI\\Migrations\\20240501160445_build-db.cs",
+              "RelativeDocumentMoniker": "..\\..\\..\\..\\..\\..\\EL-masreya\\source\\repos\\GraduationProjectAPI\\GraduationProjectAPI\\Migrations\\20240501160445_build-db.cs",
+              "ToolTip": "C:\\Users\\EL-masreya\\source\\repos\\GraduationProjectAPI\\GraduationProjectAPI\\Migrations\\20240501160445_build-db.cs",
+              "RelativeToolTip": "..\\..\\..\\..\\..\\..\\EL-masreya\\source\\repos\\GraduationProjectAPI\\GraduationProjectAPI\\Migrations\\20240501160445_build-db.cs",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-01T16:04:46.031Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 72,
+              "Title": "20240501142324_build-db.cs",
+              "DocumentMoniker": "C:\\Users\\EL-masreya\\source\\repos\\GraduationProjectAPI\\GraduationProjectAPI\\Migrations\\20240501142324_build-db.cs",
+              "RelativeDocumentMoniker": "..\\..\\..\\..\\..\\..\\EL-masreya\\source\\repos\\GraduationProjectAPI\\GraduationProjectAPI\\Migrations\\20240501142324_build-db.cs",
+              "ToolTip": "C:\\Users\\EL-masreya\\source\\repos\\GraduationProjectAPI\\GraduationProjectAPI\\Migrations\\20240501142324_build-db.cs",
+              "RelativeToolTip": "..\\..\\..\\..\\..\\..\\EL-masreya\\source\\repos\\GraduationProjectAPI\\GraduationProjectAPI\\Migrations\\20240501142324_build-db.cs",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-01T14:23:24.147Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 73,
+              "Title": "20240501142204_build-db.cs",
+              "DocumentMoniker": "C:\\Users\\EL-masreya\\source\\repos\\GraduationProjectAPI\\GraduationProjectAPI\\Migrations\\20240501142204_build-db.cs",
+              "RelativeDocumentMoniker": "..\\..\\..\\..\\..\\..\\EL-masreya\\source\\repos\\GraduationProjectAPI\\GraduationProjectAPI\\Migrations\\20240501142204_build-db.cs",
+              "ToolTip": "C:\\Users\\EL-masreya\\source\\repos\\GraduationProjectAPI\\GraduationProjectAPI\\Migrations\\20240501142204_build-db.cs",
+              "RelativeToolTip": "..\\..\\..\\..\\..\\..\\EL-masreya\\source\\repos\\GraduationProjectAPI\\GraduationProjectAPI\\Migrations\\20240501142204_build-db.cs",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-01T14:22:05.093Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 74,
+              "Title": "20240501142024_build-db.cs",
+              "DocumentMoniker": "C:\\Users\\EL-masreya\\source\\repos\\GraduationProjectAPI\\GraduationProjectAPI\\Migrations\\20240501142024_build-db.cs",
+              "RelativeDocumentMoniker": "..\\..\\..\\..\\..\\..\\EL-masreya\\source\\repos\\GraduationProjectAPI\\GraduationProjectAPI\\Migrations\\20240501142024_build-db.cs",
+              "ToolTip": "C:\\Users\\EL-masreya\\source\\repos\\GraduationProjectAPI\\GraduationProjectAPI\\Migrations\\20240501142024_build-db.cs",
+              "RelativeToolTip": "..\\..\\..\\..\\..\\..\\EL-masreya\\source\\repos\\GraduationProjectAPI\\GraduationProjectAPI\\Migrations\\20240501142024_build-db.cs",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-01T14:20:24.607Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 75,
+              "Title": "20240501141428_build-db.cs",
+              "DocumentMoniker": "C:\\Users\\EL-masreya\\source\\repos\\GraduationProjectAPI\\GraduationProjectAPI\\Migrations\\20240501141428_build-db.cs",
+              "RelativeDocumentMoniker": "..\\..\\..\\..\\..\\..\\EL-masreya\\source\\repos\\GraduationProjectAPI\\GraduationProjectAPI\\Migrations\\20240501141428_build-db.cs",
+              "ToolTip": "C:\\Users\\EL-masreya\\source\\repos\\GraduationProjectAPI\\GraduationProjectAPI\\Migrations\\20240501141428_build-db.cs",
+              "RelativeToolTip": "..\\..\\..\\..\\..\\..\\EL-masreya\\source\\repos\\GraduationProjectAPI\\GraduationProjectAPI\\Migrations\\20240501141428_build-db.cs",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-01T14:14:28.886Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 76,
+              "Title": "20240501141306_build-db.cs",
+              "DocumentMoniker": "C:\\Users\\EL-masreya\\source\\repos\\GraduationProjectAPI\\GraduationProjectAPI\\Migrations\\20240501141306_build-db.cs",
+              "RelativeDocumentMoniker": "..\\..\\..\\..\\..\\..\\EL-masreya\\source\\repos\\GraduationProjectAPI\\GraduationProjectAPI\\Migrations\\20240501141306_build-db.cs",
+              "ToolTip": "C:\\Users\\EL-masreya\\source\\repos\\GraduationProjectAPI\\GraduationProjectAPI\\Migrations\\20240501141306_build-db.cs",
+              "RelativeToolTip": "..\\..\\..\\..\\..\\..\\EL-masreya\\source\\repos\\GraduationProjectAPI\\GraduationProjectAPI\\Migrations\\20240501141306_build-db.cs",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-01T14:13:06.642Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 77,
+              "Title": "20240501141207_build-db.cs",
+              "DocumentMoniker": "C:\\Users\\EL-masreya\\source\\repos\\GraduationProjectAPI\\GraduationProjectAPI\\Migrations\\20240501141207_build-db.cs",
+              "RelativeDocumentMoniker": "..\\..\\..\\..\\..\\..\\EL-masreya\\source\\repos\\GraduationProjectAPI\\GraduationProjectAPI\\Migrations\\20240501141207_build-db.cs",
+              "ToolTip": "C:\\Users\\EL-masreya\\source\\repos\\GraduationProjectAPI\\GraduationProjectAPI\\Migrations\\20240501141207_build-db.cs",
+              "RelativeToolTip": "..\\..\\..\\..\\..\\..\\EL-masreya\\source\\repos\\GraduationProjectAPI\\GraduationProjectAPI\\Migrations\\20240501141207_build-db.cs",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-01T14:12:07.615Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 78,
+              "Title": "20240501141056_build-db.cs",
+              "DocumentMoniker": "C:\\Users\\EL-masreya\\source\\repos\\GraduationProjectAPI\\GraduationProjectAPI\\Migrations\\20240501141056_build-db.cs",
+              "RelativeDocumentMoniker": "..\\..\\..\\..\\..\\..\\EL-masreya\\source\\repos\\GraduationProjectAPI\\GraduationProjectAPI\\Migrations\\20240501141056_build-db.cs",
+              "ToolTip": "C:\\Users\\EL-masreya\\source\\repos\\GraduationProjectAPI\\GraduationProjectAPI\\Migrations\\20240501141056_build-db.cs",
+              "RelativeToolTip": "..\\..\\..\\..\\..\\..\\EL-masreya\\source\\repos\\GraduationProjectAPI\\GraduationProjectAPI\\Migrations\\20240501141056_build-db.cs",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-01T14:10:56.975Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 79,
+              "Title": "ResetpasswordVM.cs",
+              "DocumentMoniker": "C:\\Users\\EL-masreya\\Documents\\GitHub\\ModernizeAPP\\ModernizeApp(API)\\Courses App\\BL\\VM\\ResetpasswordVM.cs",
+              "RelativeDocumentMoniker": "..\\..\\..\\..\\..\\..\\EL-masreya\\Documents\\GitHub\\ModernizeAPP\\ModernizeApp(API)\\Courses App\\BL\\VM\\ResetpasswordVM.cs",
+              "ToolTip": "C:\\Users\\EL-masreya\\Documents\\GitHub\\ModernizeAPP\\ModernizeApp(API)\\Courses App\\BL\\VM\\ResetpasswordVM.cs",
+              "RelativeToolTip": "..\\..\\..\\..\\..\\..\\EL-masreya\\Documents\\GitHub\\ModernizeAPP\\ModernizeApp(API)\\Courses App\\BL\\VM\\ResetpasswordVM.cs",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-01T02:21:54.628Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 81,
+              "Title": "20240430232438_build-db.cs",
+              "DocumentMoniker": "C:\\Users\\EL-masreya\\source\\repos\\GraduationProjectAPI\\GraduationProjectAPI\\Migrations\\20240430232438_build-db.cs",
+              "RelativeDocumentMoniker": "..\\..\\..\\..\\..\\..\\EL-masreya\\source\\repos\\GraduationProjectAPI\\GraduationProjectAPI\\Migrations\\20240430232438_build-db.cs",
+              "ToolTip": "C:\\Users\\EL-masreya\\source\\repos\\GraduationProjectAPI\\GraduationProjectAPI\\Migrations\\20240430232438_build-db.cs",
+              "RelativeToolTip": "..\\..\\..\\..\\..\\..\\EL-masreya\\source\\repos\\GraduationProjectAPI\\GraduationProjectAPI\\Migrations\\20240430232438_build-db.cs",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-30T23:24:38.732Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 83,
+              "Title": "20240430232051_build-db.cs",
+              "DocumentMoniker": "C:\\Users\\EL-masreya\\source\\repos\\GraduationProjectAPI\\GraduationProjectAPI\\Migrations\\20240430232051_build-db.cs",
+              "RelativeDocumentMoniker": "..\\..\\..\\..\\..\\..\\EL-masreya\\source\\repos\\GraduationProjectAPI\\GraduationProjectAPI\\Migrations\\20240430232051_build-db.cs",
+              "ToolTip": "C:\\Users\\EL-masreya\\source\\repos\\GraduationProjectAPI\\GraduationProjectAPI\\Migrations\\20240430232051_build-db.cs",
+              "RelativeToolTip": "..\\..\\..\\..\\..\\..\\EL-masreya\\source\\repos\\GraduationProjectAPI\\GraduationProjectAPI\\Migrations\\20240430232051_build-db.cs",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-30T23:20:52.089Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 82,
+              "Title": "20240430232313_build-db.cs",
+              "DocumentMoniker": "C:\\Users\\EL-masreya\\source\\repos\\GraduationProjectAPI\\GraduationProjectAPI\\Migrations\\20240430232313_build-db.cs",
+              "RelativeDocumentMoniker": "..\\..\\..\\..\\..\\..\\EL-masreya\\source\\repos\\GraduationProjectAPI\\GraduationProjectAPI\\Migrations\\20240430232313_build-db.cs",
+              "ToolTip": "C:\\Users\\EL-masreya\\source\\repos\\GraduationProjectAPI\\GraduationProjectAPI\\Migrations\\20240430232313_build-db.cs",
+              "RelativeToolTip": "..\\..\\..\\..\\..\\..\\EL-masreya\\source\\repos\\GraduationProjectAPI\\GraduationProjectAPI\\Migrations\\20240430232313_build-db.cs",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-30T23:23:14.1Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 84,
+              "Title": "AccountController.cs",
+              "DocumentMoniker": "C:\\Users\\EL-masreya\\Documents\\GitHub\\Sales_Office\\WebApplication12\\Controllers\\AccountController.cs",
+              "RelativeDocumentMoniker": "..\\..\\..\\..\\..\\..\\EL-masreya\\Documents\\GitHub\\Sales_Office\\WebApplication12\\Controllers\\AccountController.cs",
+              "ToolTip": "C:\\Users\\EL-masreya\\Documents\\GitHub\\Sales_Office\\WebApplication12\\Controllers\\AccountController.cs",
+              "RelativeToolTip": "..\\..\\..\\..\\..\\..\\EL-masreya\\Documents\\GitHub\\Sales_Office\\WebApplication12\\Controllers\\AccountController.cs",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-30T16:37:14.375Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 86,
+              "Title": "20240430145548_build-db.cs",
+              "DocumentMoniker": "C:\\Users\\EL-masreya\\source\\repos\\GraduationProjectAPI\\GraduationProjectAPI\\Migrations\\20240430145548_build-db.cs",
+              "RelativeDocumentMoniker": "..\\..\\..\\..\\..\\..\\EL-masreya\\source\\repos\\GraduationProjectAPI\\GraduationProjectAPI\\Migrations\\20240430145548_build-db.cs",
+              "ToolTip": "C:\\Users\\EL-masreya\\source\\repos\\GraduationProjectAPI\\GraduationProjectAPI\\Migrations\\20240430145548_build-db.cs",
+              "RelativeToolTip": "..\\..\\..\\..\\..\\..\\EL-masreya\\source\\repos\\GraduationProjectAPI\\GraduationProjectAPI\\Migrations\\20240430145548_build-db.cs",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-30T14:55:48.755Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 87,
+              "Title": "20240430144113_build-db.cs",
+              "DocumentMoniker": "C:\\Users\\EL-masreya\\source\\repos\\GraduationProjectAPI\\GraduationProjectAPI\\Migrations\\20240430144113_build-db.cs",
+              "RelativeDocumentMoniker": "..\\..\\..\\..\\..\\..\\EL-masreya\\source\\repos\\GraduationProjectAPI\\GraduationProjectAPI\\Migrations\\20240430144113_build-db.cs",
+              "ToolTip": "C:\\Users\\EL-masreya\\source\\repos\\GraduationProjectAPI\\GraduationProjectAPI\\Migrations\\20240430144113_build-db.cs",
+              "RelativeToolTip": "..\\..\\..\\..\\..\\..\\EL-masreya\\source\\repos\\GraduationProjectAPI\\GraduationProjectAPI\\Migrations\\20240430144113_build-db.cs",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-30T14:41:14.044Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 88,
+              "Title": "MailSender.cs",
+              "DocumentMoniker": "C:\\Users\\EL-masreya\\Documents\\GitHub\\ModernizeAPP\\ModernizeApp(API)\\Courses App\\BL\\Services\\MailSender.cs",
+              "RelativeDocumentMoniker": "..\\..\\..\\..\\..\\..\\EL-masreya\\Documents\\GitHub\\ModernizeAPP\\ModernizeApp(API)\\Courses App\\BL\\Services\\MailSender.cs",
+              "ToolTip": "C:\\Users\\EL-masreya\\Documents\\GitHub\\ModernizeAPP\\ModernizeApp(API)\\Courses App\\BL\\Services\\MailSender.cs",
+              "RelativeToolTip": "..\\..\\..\\..\\..\\..\\EL-masreya\\Documents\\GitHub\\ModernizeAPP\\ModernizeApp(API)\\Courses App\\BL\\Services\\MailSender.cs",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-30T13:03:53.626Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 89,
+              "Title": "20240430120736_build-db.cs",
+              "DocumentMoniker": "C:\\Users\\EL-masreya\\source\\repos\\GraduationProjectAPI\\GraduationProjectAPI\\Migrations\\20240430120736_build-db.cs",
+              "RelativeDocumentMoniker": "..\\..\\..\\..\\..\\..\\EL-masreya\\source\\repos\\GraduationProjectAPI\\GraduationProjectAPI\\Migrations\\20240430120736_build-db.cs",
+              "ToolTip": "C:\\Users\\EL-masreya\\source\\repos\\GraduationProjectAPI\\GraduationProjectAPI\\Migrations\\20240430120736_build-db.cs",
+              "RelativeToolTip": "..\\..\\..\\..\\..\\..\\EL-masreya\\source\\repos\\GraduationProjectAPI\\GraduationProjectAPI\\Migrations\\20240430120736_build-db.cs",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-30T12:07:37.405Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 80,
+              "Title": "response_1714532299482.json",
+              "DocumentMoniker": "C:\\Users\\EL-masreya\\Downloads\\response_1714532299482.json",
+              "RelativeDocumentMoniker": "..\\..\\..\\..\\..\\..\\EL-masreya\\Downloads\\response_1714532299482.json",
+              "ToolTip": "C:\\Users\\EL-masreya\\Downloads\\response_1714532299482.json",
+              "RelativeToolTip": "..\\..\\..\\..\\..\\..\\EL-masreya\\Downloads\\response_1714532299482.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-05-01T02:58:31.835Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 85,
+              "Title": "response_1714489571497.json",
+              "DocumentMoniker": "C:\\Users\\EL-masreya\\Downloads\\response_1714489571497.json",
+              "RelativeDocumentMoniker": "..\\..\\..\\..\\..\\..\\EL-masreya\\Downloads\\response_1714489571497.json",
+              "ToolTip": "C:\\Users\\EL-masreya\\Downloads\\response_1714489571497.json",
+              "RelativeToolTip": "..\\..\\..\\..\\..\\..\\EL-masreya\\Downloads\\response_1714489571497.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-04-30T15:06:46.04Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,39 @@
+{
+  "Version": 1,
+  "Hash": "9oDoBHnMwaiXNIWWZCgjqRmjC3ycNb1oFeQFF3urL4I=",
+  "Source": "GraduationProjectAPI",
+  "BasePath": "_content/GraduationProjectAPI",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [
+    {
+      "Name": "GraduationProjectAPI\\wwwroot",
+      "Source": "GraduationProjectAPI",
+      "ContentRoot": "C:\\Users\\Orginal\\Downloads\\PharmaProAPI-main-1\\PharmaProAPI-main-1\\PharmaProAPI-main\\GraduationProjectAPI\\GraduationProjectAPI\\wwwroot\\",
+      "BasePath": "_content/GraduationProjectAPI",
+      "Pattern": "**"
+    }
+  ],
+  "Assets": [
+    {
+      "Identity": "C:\\Users\\Orginal\\Downloads\\PharmaProAPI-main-1\\PharmaProAPI-main-1\\PharmaProAPI-main\\GraduationProjectAPI\\GraduationProjectAPI\\wwwroot\\images\\logo.png",
+      "SourceId": "GraduationProjectAPI",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\Orginal\\Downloads\\PharmaProAPI-main-1\\PharmaProAPI-main-1\\PharmaProAPI-main\\GraduationProjectAPI\\GraduationProjectAPI\\wwwroot\\",
+      "BasePath": "_content/GraduationProjectAPI",
+      "RelativePath": "images/logo.png",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "PreferTarget",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\images\\logo.png"
+    }
+  ]
+}

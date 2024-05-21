@@ -1,0 +1,25 @@
+{
+  "Files": [
+    {
+      "Id": "C:\\Users\\Orginal\\Downloads\\PharmaProAPI-main-1\\PharmaProAPI-main-1\\PharmaProAPI-main\\GraduationProjectAPI\\GraduationProjectAPI\\wwwroot\\images\\logo.png",
+      "PackagePath": "staticwebassets\\images\\logo.png"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.GraduationProjectAPI.Microsoft.AspNetCore.StaticWebAssets.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssets.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.build.GraduationProjectAPI.props",
+      "PackagePath": "build\\GraduationProjectAPI.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.buildMultiTargeting.GraduationProjectAPI.props",
+      "PackagePath": "buildMultiTargeting\\GraduationProjectAPI.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.buildTransitive.GraduationProjectAPI.props",
+      "PackagePath": "buildTransitive\\GraduationProjectAPI.props"
+    }
+  ],
+  "ElementsToRemove": []
+}
